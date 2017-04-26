@@ -31,13 +31,13 @@ class Namedaycog:
                 date = "%s.%s" % (day["day"], day["month"])
                 day["date"] = date
                 if findName(msg)(day["names"]):
-                    await self.bot.say("%s %s vārda dienu svin %s." % (emoji, msg.title(), date))
+                    await self.bot.say("%s %s vārda dienu svin %s" % (emoji, msg.title(), date))
                     found = True
                 elif msg == day["date"]:
                     if day["noncalendarnames"] == "<NAV_NEVIENS_VĀRDS>":
-                        await self.bot.say("%s %s. vārda dienu svin: `%s`" % (emoji, date, day["names"].replace(" ",", ")))
+                        await self.bot.say("%s %s vārda dienu svin: `%s`" % (emoji, date, day["names"].replace(" ",", ")))
                     else:
-                        await self.bot.say("%s %s. vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (emoji, date, day["names"].replace(" ",", "), emoji2, day["noncalendarnames"].replace(" ",", ")))
+                        await self.bot.say("%s %s vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (emoji, date, day["names"].replace(" ",", "), emoji2, day["noncalendarnames"].replace(" ",", ")))
                     found = True
             if not found:
                 await self.bot.say('Kļūda - "%s" netika atrasts' % (msg))
