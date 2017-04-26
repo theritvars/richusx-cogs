@@ -26,7 +26,7 @@ class Namedaycog:
             nameFound = False
             for day in vd["namedays"]:
                 if findName(msg)(day["names"]):
-                    await self.bot.say("[VDiena] %s vārda dienu svin %s.%s." % (msg, day["day"], day["month"]))
+                    await self.bot.say("[VDiena] %s vārda dienu svin %s.%s." % (msg.title(), day["day"], day["month"]))
                     nameFound = True
             if not nameFound:
                 await self.bot.say('[VDiena] - Vārds "%s" netika atrasts' % (msg))
