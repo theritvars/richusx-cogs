@@ -10,5 +10,6 @@
 ```
 [p]vd - Returns names of people who have their name-days today
 [p]vd [name] - Returns a date when [name] have their name-day
+[p]vd [date] - Returns names of people who have their name-days on certain date
 [p]vd help - Returns available commands and their descriptions
 ```
