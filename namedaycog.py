@@ -5,6 +5,8 @@ import os
 import re
 from discord.ext import commands
 
+emoji = ":cake:"
+
 def findName(w):
     return re.compile(r'\b({0})\b'.format(w), flags=re.IGNORECASE).search
 
@@ -19,7 +21,7 @@ class Namedaycog:
         t = datetime.datetime.now()
         vd = json.loads(open("%s/namedays.json" % (path)).read())
         if msg is None:
-            await self.bot.say("[VDiena] - [Šodien: '%s', Neiekļautie: '%s'] - %s" % (vd["namedays"][int(t.strftime('%j'))]["names"], vd["namedays"][int(t.strftime('%j'))]["noncalendarnames"], t.strftime('%d.%m.%Y')))
+            await self.bot.say("%s Šodien vārda dienu svin: `%s`\n\n*Kalendārā neiekļautie: `%s`*" % (emoji, vd["namedays"][int(t.strftime('%j'))]["names"].replace(" ",", "), vd["namedays"][int(t.strftime('%j'))]["noncalendarnames"].replace(" ",", ")))
         elif msg.lower() == "help":
              await self.bot.say("```\n%svd - Atgriež šodienas vārda dienu jubilārus\n%svd [vārds] - Atgriež datumu kurā [vārds] svin vārda dienu```" % (ctx.prefix, ctx.prefix))
         else:
