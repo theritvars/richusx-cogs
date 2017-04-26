@@ -21,7 +21,7 @@ class Namedaycog:
         if msg is None:
             await self.bot.say("[VDiena] - [Šodien: '%s', Neiekļautie: '%s'] - %s" % (vd["namedays"][int(t.strftime('%j'))]["names"], vd["namedays"][int(t.strftime('%j'))]["noncalendarnames"], t.strftime('%d.%m.%Y')))
         elif msg.lower() == "help":
-             await self.bot.say("```\n!vd - Šodienas vārda dienu jubilāri\n!vd [vārds] - Datums kurā [vārds] svin vārda dienu```")
+             await self.bot.say("```\n%svd - Atgriež šodienas vārda dienu jubilārus\n%svd [vārds] - Atgriež datumu kurā [vārds] svin vārda dienu```" % (ctx.prefix, ctx.prefix))
         else:
             nameFound = False
             for day in vd["namedays"]:

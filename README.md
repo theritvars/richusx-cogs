@@ -6,8 +6,9 @@
 3. You are good to go!
 
 ### Usage
+[p] is your command prefix (! or ? or other)
 ```
-!vd - Returns names of people who have their name-days today
-!vd [name] - Returns a date when [name] have their name-day
-!vd help - Returns available commands and their descriptions
+[p]vd - Returns names of people who have their name-days today
+[p]vd [name] - Returns a date when [name] have their name-day
+[p]vd help - Returns available commands and their descriptions
 ```
