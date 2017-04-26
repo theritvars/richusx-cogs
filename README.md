@@ -1,2 +1,2 @@
-# redbot-varda-dienas
+# redbot-namedays
 A Red Discord Bot cog for Latvian name-days
