@@ -7,6 +7,7 @@
 
 ### Usage
 ```
+!vd help - Returns available commands and their descriptions
 !vd - Returns names of people who have their name-days today
 !vd [name] - Returns a date when [name] have their name-day
 ```
