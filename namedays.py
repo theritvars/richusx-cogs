@@ -46,7 +46,10 @@ class Namedays:
                     if findname(msg)(day["names"]):
                         await self.bot.say("%s %s vārda dienu svin %s" % (emoji, msg.title(), date))
                         found = True
-                    elif msg == day["date"]:
+                    if findname(msg)(day["noncalendarnames"]):
+                        await self.bot.say("%s %s vārda dienu svin %s" % (emoji, msg.title(), date))
+                        found = True
+                    if msg == day["date"]:
                         if day["noncalendarnames"] == "<NAV_NEVIENS_VĀRDS>":
                             await self.bot.say(
                                 "%s %s vārda dienu svin: `%s`" % (emoji, date, day["names"].replace(" ", ", ")))
