@@ -14,7 +14,7 @@ class NoMore:
     '''Prevents blacklisted users from posting images'''
 
     def __init__(self, bot):
-        self.blacklist = json.loads(open("%s/nomore.json" % (path)).read())
+        self.blacklist = json.loads(open("%s/blacklist.json" % (path)).read())
         self.bot = bot
 
     @commands.group(pass_context=True)
@@ -32,7 +32,7 @@ class NoMore:
         try:
             username = await self.bot.get_user_info(usr)
             self.blacklist["blacklist"].append(int(usr))
-            json.dump(self.blacklist, (open("%s/nomore.json" % (path), 'w')))
+            json.dump(self.blacklist, (open("%s/blacklist.json" % (path), 'w')))
             await self.bot.say('`%s` added to blacklist' % (username))
         except Exception as e:
             await self.bot.say(e)
@@ -45,7 +45,7 @@ class NoMore:
             if int(usr) in self.blacklist["blacklist"]:
                 username = await self.bot.get_user_info(usr)
                 self.blacklist["blacklist"].remove(usr)
-                json.dump(self.blacklist, (open("%s/nomore.json" % (path), 'w')))
+                json.dump(self.blacklist, (open("%s/blacklist.json" % (path), 'w')))
                 await self.bot.say('`%s` removed from blacklist' % (username))
         except Exception as e:
             await self.bot.say(e)
@@ -93,5 +93,12 @@ class NoMore:
                                 await self.bot.delete_message(msg)
                                 break
 
+def check_blacklist_file():
+    contents = {'blacklist': []}
+    if not os.path.exists("%s/blacklist.json" % (path)):
+        print('Creating empty blacklist.json...')
+        json.dump(contents, (open("%s/blacklist.json" % (path), 'w')))
+
 def setup(bot):
+    check_blacklist_file()
     bot.add_cog(NoMore(bot))
