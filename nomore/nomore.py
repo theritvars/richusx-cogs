@@ -8,7 +8,7 @@ import requests
 import re
 
 path = os.path.dirname(os.path.realpath(__file__))
-ext = ['jpg', 'png', 'gif', 'gif', 'gifv', 'mp4', 'svg', 'bmp']
+ext = ['jpg', 'png', 'gif', 'gifv', 'mp4', 'svg', 'bmp']
 
 class NoMore:
     '''Prevents blacklisted users from posting images'''
