@@ -1,7 +1,7 @@
 {
     "AUTHOR" : "Ritvars Timermanis",
     "INSTALL_MSG" : "Latvian name-days cog has been installed",
-    "NAME" : "redbot-namedays",
+    "NAME" : "namedays",
     "SHORT" : "A Red Discord Bot cog for Latvian name-days",
     "DESCRIPTION" : "A Red Discord Bot cog for Latvian name-days"
 }

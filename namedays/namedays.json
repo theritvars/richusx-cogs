@@ -1,0 +1,2566 @@
+{
+  "namedays": [
+    {
+      "names": "Solvita Laimnesis Solvija",
+      "noncalendarnames": "Afra Afrodīte Agunda Agurs Januārija Laimstars Solita Solveta",
+      "day": "01",
+      "month": "01"
+
+    },
+    {
+      "names": "Indulis Ivo Iva Ivis",
+      "noncalendarnames": "Induls Īva Ivaise Īvija Ivika Īvis Ivs",
+      "day": "02",
+      "month": "01"
+
+    },
+    {
+      "names": "Ringolds Miervaldis Miervalda",
+      "noncalendarnames": "Ambrozijs Ammonārija Mežvaldis Mieriņš Miermīlis Miernesis Miervalds Ringla Ringo Rinolds",
+      "day": "03",
+      "month": "01"
+
+    },
+    {
+      "names": "Spodra Ilva",
+      "noncalendarnames": "Amirans Amirs Blāzma Ilveta Ilvis Ilvita Spodrīte",
+      "day": "04",
+      "month": "01"
+
+    },
+    {
+      "names": "Sīmanis Zintis",
+      "noncalendarnames": "Amrita Amunds Saimona Saimons Seimanis Semions Semjons Simeons Simions Simons Zintauts Zinturs",
+      "day": "05",
+      "month": "01"
+
+    },
+    {
+      "names": "Arnita Spulga",
+      "noncalendarnames": "Arams Aranta Arfa Arnīda Arnija Arnika",
+      "day": "06",
+      "month": "01"
+
+    },
+    {
+      "names": "Juliāns Rota Zigmārs Digmārs",
+      "noncalendarnames": "Jūliāns Sigmārs Zigmāra Zigmāris Zigmars",
+      "day": "07",
+      "month": "01"
+
+    },
+    {
+      "names": "Gatis Ivanda",
+      "noncalendarnames": "Ants Arieta Aristīda Aristīds Aristons Arjana Arlijs Arlita Gatiņš Ivande Ivanna Ivase Ivena",
+      "day": "08",
+      "month": "01"
+
+    },
+    {
+      "names": "Kaspars Aksels Alta",
+      "noncalendarnames": "Akselis Veiko Vello Velonija",
+      "day": "09",
+      "month": "01"
+
+    },
+    {
+      "names": "Tatjana Dorisa",
+      "noncalendarnames": "Doreta Dorina Dorita Taņa Tanita",
+      "day": "10",
+      "month": "01"
+
+    },
+    {
+      "names": "Smaida Franciska",
+      "noncalendarnames": "Frančeska Francišeks Franciška Frančiska Francisks Franļišeks Františka Smaidiņa Smaidīte Smaidonis Smaidra Smailis",
+      "day": "11",
+      "month": "01"
+
+    },
+    {
+      "names": "Reinis Renāts Reinholds Reina",
+      "noncalendarnames": "Anisija Aņisija Aņisja Redženalds Redžinalds Reginalds Regnalds Regnolds Reinhards Reino Reinolds Reinvalds Renalda Renalds Renato Renats Renolds Rinats",
+      "day": "12",
+      "month": "01"
+
+    },
+    {
+      "names": "Harijs Ārijs Āris Aira",
+      "noncalendarnames": "Airika Airiks Airis Āra Ārends Ārens Aress Ariels Arigo Arijs Ariko Āriks Aris Ariss Harija Harina Haris Harita Haritina",
+      "day": "13",
+      "month": "01"
+
+    },
+    {
+      "names": "Roberts Roberta Raitis Raits",
+      "noncalendarnames": "Robērs Robertīne Roberto Robija Robijs Robina Robins",
+      "day": "14",
+      "month": "01"
+
+    },
+    {
+      "names": "Fēlikss Felicita",
+      "noncalendarnames": "Asola Aspāzija Asunta Atēna Feliciāna Felicianna Felicians Felīcija Felicijana Felicijans Felicjana Felikss Filicija",
+      "day": "15",
+      "month": "01"
+
+    },
+    {
+      "names": "Lidija Lida",
+      "noncalendarnames": "Avija Avita Aviva Āvo Gordejs Līda Lidita",
+      "day": "16",
+      "month": "01"
+
+    },
+    {
+      "names": "Tenis Dravis",
+      "noncalendarnames": "Denisa Denise Deņiss Deniss Denīza Denīze Dionisijs Dionizijs Radions Rodions Trofims",
+      "day": "17",
+      "month": "01"
+
+    },
+    {
+      "names": "Antons Antis",
+      "noncalendarnames": "Acons Antans Antars Antonijs Antonio Antuans Ontons Tonijs",
+      "day": "18",
+      "month": "01"
+
+    },
+    {
+      "names": "Andulis Alnis",
+      "noncalendarnames": "Alna Alnars Alnors Džellija",
+      "day": "19",
+      "month": "01"
+
+    },
+    {
+      "names": "Oļģerts Aļģirds Orests Aļģis",
+      "noncalendarnames": "Algarts Algers Alģerts Alģimants Algirds Alģirds Aļģirts Alģirts Aļģis Odisejs Olģerds Olgerts Orfejs Orīda",
+      "day": "20",
+      "month": "01"
+
+    },
+    {
+      "names": "Agne Agnese Agnija",
+      "noncalendarnames": "Agna Agnārs Agnesa Agnesija Agneška Agņeška Urdze Urdziņa",
+      "day": "21",
+      "month": "01"
+
+    },
+    {
+      "names": "Austris",
+      "noncalendarnames": "Bendžamins Beneventa Benija Benijs Benjamina Benjāmiņš Benjamins Benno Beno Benoventa Bens",
+      "day": "22",
+      "month": "01"
+
+    },
+    {
+      "names": "Grieta Strauta",
+      "noncalendarnames": "Bažena Bazils Bekija Božena Greta Grēta Grietina Rebeka Straumīte Vasīlijs Vasilisa Vasils Virta",
+      "day": "23",
+      "month": "01"
+
+    },
+    {
+      "names": "Krišs Ksenija Eglons",
+      "noncalendarnames": "Aksenija Egle Eglis Krišus Ksēnija",
+      "day": "24",
+      "month": "01"
+
+    },
+    {
+      "names": "Zigurds Sigurds",
+      "noncalendarnames": "Berenika Berils Berita Beruta Bonifācija Bonifācijs Bonifātijs Bonifats Bonija Bonijs Sigords Sigurts Sigvards Sigvars Sigvarts Zigo Zigonis Zigurts Zigvards",
+      "day": "25",
+      "month": "01"
+
+    },
+    {
+      "names": "Ansis Agnis Agneta",
+      "noncalendarnames": "Agnete Agneze Agnēze Agnita Hanss Hanzija Karps Polikarps",
+      "day": "26",
+      "month": "01"
+
+    },
+    {
+      "names": "Ilze Ildze Izolde",
+      "noncalendarnames": "Ilāra Ilards Ilārija Ilārijs Ilārs Illa Illarija Ilza Ilzīte Izolda",
+      "day": "27",
+      "month": "01"
+
+    },
+    {
+      "names": "Kārlis Spodris",
+      "noncalendarnames": "Bianka Čariijs Čarita Čarlzs Karels Karolis Karols",
+      "day": "28",
+      "month": "01"
+
+    },
+    {
+      "names": "Valērijs Aivars",
+      "noncalendarnames": "Aivalds Aivārs Bille Billijs Bils Valeriāns Valerijāns Valerijs Valerjāns Velerjans",
+      "day": "29",
+      "month": "01"
+
+    },
+    {
+      "names": "Valentīna Tīna Pārsla",
+      "noncalendarnames": "Biminita Binija Binnija Pārsliņa Stīna Stīne Tina Vaļa Valentija Valentina Valentīne",
+      "day": "30",
+      "month": "01"
+
+    },
+    {
+      "names": "Tekla Violeta",
+      "noncalendarnames": "Bonaventūra Bonaventūrs Bonoventura Tikla Tīksma Viorika",
+      "day": "31",
+      "month": "01"
+
+    },
+    {
+      "names": "Brigita Indra Indars Indris",
+      "noncalendarnames": "Agita Anda Birgita Briāna Bridžita Brigita Brita Gita Inda",
+      "day": "01",
+      "month": "02"
+
+    },
+    {
+      "names": "Spīdola Sonora",
+      "noncalendarnames": "Braiens Braijens Brains Randa Randija Randolfs",
+      "day": "02",
+      "month": "02"
+
+    },
+    {
+      "names": "Aīda Vida Ida",
+      "noncalendarnames": "Aida Aidars Aidis Alaida Cezarija Cēzars Cezars Īda Ideja Idilija Idra",
+      "day": "03",
+      "month": "02"
+
+    },
+    {
+      "names": "Daila Veronika",
+      "noncalendarnames": "Daile Dome Domenika Domeniks Domija Dominika Dominiks Domuse Varenika Varonika Veranika Veronija",
+      "day": "04",
+      "month": "02"
+
+    },
+    {
+      "names": "Agate Selga Silga Sinilga",
+      "noncalendarnames": "Agafija Agata Agāte Agatons Seldzis Silja",
+      "day": "05",
+      "month": "02"
+
+    },
+    {
+      "names": "Dārta Dace Dora",
+      "noncalendarnames": "Dacija Dacis Dacīte Dadzis Dārija Dārijs Darina Daris Darja Dārte Dore Dorota Doroteja Dorotija Dorta Dorte",
+      "day": "06",
+      "month": "02"
+
+    },
+    {
+      "names": "Rihards Ričards Nelda",
+      "noncalendarnames": "Dikijs Diks Nilda Ričijs Ričs Riho Rikarda Rikardo Rikijs Riks Rišars",
+      "day": "07",
+      "month": "02"
+
+    },
+    {
+      "names": "Aldona",
+      "noncalendarnames": "Aldone Aldonija Čelsija Čereta Česlava Česlavs Čezeta Dabris Dafnis Danko",
+      "day": "08",
+      "month": "02"
+
+    },
+    {
+      "names": "Simona Apolonija",
+      "noncalendarnames": "Apolinārija Apolinārijs Apolinārs Apolons Debora Dedze Deizija Denora Dezija Dēzija Raisa Raisma Raja Simoneta",
+      "day": "09",
+      "month": "02"
+
+    },
+    {
+      "names": "Paulīne Paula",
+      "noncalendarnames": "Diāra Dida Dijs Dūda Džasmīna Jasmīna Jasmīne Pauleta Paulīna Pauline Pavlīna Pavlīne Polīna Poļina Sholastika Sholostika Skolastika Skolestika Skolostika",
+      "day": "10",
+      "month": "02"
+
+    },
+    {
+      "names": "Laima Laimdota",
+      "noncalendarnames": "Fortunata Gerasims Laimiņa Laimīte Laimute",
+      "day": "11",
+      "month": "02"
+
+    },
+    {
+      "names": "Karlīna Līna",
+      "noncalendarnames": "Džigunda Džilda Džoija Džoja Karalina Karla Karlina Karlīne Karola Karolīna Karolīne Karulina Kerija Kerijs Kerola Kerolaina Kerolaine Lina Līne Lineta Linita Lins Linus Linuss",
+      "day": "12",
+      "month": "02"
+
+    },
+    {
+      "names": "Malda Melita",
+      "noncalendarnames": "Džordans Džordijs Jordans Maldiņa Maldis Maldonis Melitina",
+      "day": "13",
+      "month": "02"
+
+    },
+    {
+      "names": "Valentīns",
+      "noncalendarnames": "Eberhards Edla Edmans Edmārs Edna Eginhards Egmārs Egnārs Valeks Valentijs Valentins Valents Valtīns",
+      "day": "14",
+      "month": "02"
+
+    },
+    {
+      "names": "Alvils Olafs Olavs Aloīzs",
+      "noncalendarnames": "Alodija Aloīda Aloiza Aloizija Aloīzijs Aloizis Aloīzs Alvids Olands Olārs Olevs",
+      "day": "15",
+      "month": "02"
+
+    },
+    {
+      "names": "Jūlija Džuljeta",
+      "noncalendarnames": "Džūlija Jūla Jūle Jūliāna Jūļiana Julianija Jūlianna Julija Jūlijana Julijanna Julita Juļjana",
+      "day": "16",
+      "month": "02"
+
+    },
+    {
+      "names": "Donats Konstance",
+      "noncalendarnames": "Danats Donalds Donāta Donāte Donāts Donvina Konstancija Konstantija Konstantīna Konstantīne Vaino Veino",
+      "day": "17",
+      "month": "02"
+
+    },
+    {
+      "names": "Kora Kintija",
+      "noncalendarnames": "Cina Cintija Ciprians Ciprijans Konkordija Korina",
+      "day": "18",
+      "month": "02"
+
+    },
+    {
+      "names": "Zane Zuzanna",
+      "noncalendarnames": "Efeja Eifrozine Jefrosīnija Sjuzanna Susanna Suzana Suzanna Zana Zanita Zanna Zuzana Zuze",
+      "day": "19",
+      "month": "02"
+
+    },
+    {
+      "names": "Vitauts Smuidra Smuidris",
+      "noncalendarnames": "Egberts Egdijs Egerts Egida Egidijs Hulda Smuidrīte Vijtauts Vītauts",
+      "day": "20",
+      "month": "02"
+
+    },
+    {
+      "names": "Eleonora Ariadne",
+      "noncalendarnames": "Ariadna Arialds Arilds Elenora Elionora Elona Illo Ilo",
+      "day": "21",
+      "month": "02"
+
+    },
+    {
+      "names": "Rigonda Adrians Ārija",
+      "noncalendarnames": "Adriāna Adriāns Adrija Adris Areta Aretijs Arets Ariāna Arianda Ariandra Arianna Arians Arīda Arija Ārika Arimanda Arimands Ārite Rigonds",
+      "day": "22",
+      "month": "02"
+
+    },
+    {
+      "names": "Haralds Almants",
+      "noncalendarnames": "Almands Almonds Aralda Aralds Haralda Harolds Herolds Heronija",
+      "day": "23",
+      "month": "02"
+
+    },
+    {
+      "names": "Diāna Dina Dins",
+      "noncalendarnames": "Deina Deinis Deins Dens Diana Diandra Dianna Dīna Dinis Dino Dīns",
+      "day": "24",
+      "month": "02"
+
+    },
+    {
+      "names": "Alma Annemarija",
+      "noncalendarnames": "Almāra Almārs Anemarija Ankatrina Anlīza Anlīze Anlizeta Anmāra Anmarija Annamarija Gunmāra",
+      "day": "25",
+      "month": "02"
+
+    },
+    {
+      "names": "Aurēlija Mētra Evelīna",
+      "noncalendarnames": "Aurelija Aurelijs Aurēlijs Aurels Elvīna Elvīne Elvings Elvīns Evalina Evelina Evelīne Zoja",
+      "day": "26",
+      "month": "02"
+
+    },
+    {
+      "names": "Līva Andra Līvija",
+      "noncalendarnames": "Andre Andrelita Andreta Andriāna Andrija Andrijana Andrika Andrita Andromeda Liva Livars Liveta Livija Līvis Livita Līvs",
+      "day": "27",
+      "month": "02"
+
+    },
+    {
+      "names": "Skaidrīte Skaidra Justs",
+      "noncalendarnames": "Eigits Elārs Elčins Justīns Skaidre",
+      "day": "28",
+      "month": "02"
+
+    },
+    {
+      "names": "<NAV_NEVIENS_VĀRDS>",
+      "noncalendarnames": "Alarihs Danusja Gudrona Hezija Karstens Kristana Sērsnis Skanda Skandis Tāllida",
+      "day": "29",
+      "month": "02"
+
+    },
+    {
+      "names": "Ivars Ilgvars",
+      "noncalendarnames": "Elda Eldars Eldijs Elektra Elerts Igvars Ilgvalds Ilgvards Ilgvaris Ilgvārs Ivāra Ivārs",
+      "day": "01",
+      "month": "03"
+
+    },
+    {
+      "names": "Lavīze Luīze Laila",
+      "noncalendarnames": "Emeralds Emerihs Emeriks Imre Laija Lailita Luīza Luize",
+      "day": "02",
+      "month": "03"
+
+    },
+    {
+      "names": "Marts Tālis Tālavs",
+      "noncalendarnames": "Mārts Rigmora Rigo Tāls",
+      "day": "03",
+      "month": "03"
+
+    },
+    {
+      "names": "Alise Auce",
+      "noncalendarnames": "Alīcija Alīsa Alīse Alīsija Alisters Alsis Ena Enārs Enda Endija Endijs Endo Ene Enīda Enija Enijs Enina Enita Ennata Ennija Enno Enta Envija",
+      "day": "04",
+      "month": "03"
+
+    },
+    {
+      "names": "Austra Aurora",
+      "noncalendarnames": "Aura Aurika Aušra Austrīte Enoks",
+      "day": "05",
+      "month": "03"
+
+    },
+    {
+      "names": "Vents Centis Gotfrīds",
+      "noncalendarnames": "Censonis Censons Centa Centolla Centonis Godfrīds Godvars Gotards Gothards Gotlība Ventis",
+      "day": "06",
+      "month": "03"
+
+    },
+    {
+      "names": "Ella Elmīra",
+      "noncalendarnames": "Eļa Ellija Elmira Eridana Erims Erīna Erita Helmīra",
+      "day": "07",
+      "month": "03"
+
+    },
+    {
+      "names": "Dagmāra Marga Margita",
+      "noncalendarnames": "Daglta Dagmara Dagmārs Magrita Margo",
+      "day": "08",
+      "month": "03"
+
+    },
+    {
+      "names": "Ēvalds",
+      "noncalendarnames": "Evalds Filemona Filgita Filimona Fiļimona Filimonija Filiomena Filomeja Filomena Filumena Ievalds Ivalds Pilimona Vilemons",
+      "day": "09",
+      "month": "03"
+
+    },
+    {
+      "names": "Liliāna Laimrota Silvija",
+      "noncalendarnames": "Laimrita Lilana Lili Liliana Lilianna Lilians Lilijana Lilioza Liljana Lilli Tarass Zilvija",
+      "day": "10",
+      "month": "03"
+
+    },
+    {
+      "names": "Konstantīns Agita",
+      "noncalendarnames": "Agika Aģis Esams Esēnija Esija Konstantins",
+      "day": "11",
+      "month": "03"
+
+    },
+    {
+      "names": "Aija Aiva Aivis",
+      "noncalendarnames": "Aivika Aivils Aivo Ajita Eta Etele Etelvīne Etere Eteri Etīna Etjēns",
+      "day": "12",
+      "month": "03"
+
+    },
+    {
+      "names": "Ernests Balvis",
+      "noncalendarnames": "Baldūrs Emijs Erasts Ernis Ernsts Eulālija Euzebijs Nesters Nestors Nikifors Ņikifors",
+      "day": "13",
+      "month": "03"
+
+    },
+    {
+      "names": "Matilde Ulrika",
+      "noncalendarnames": "Eventijs Everika Evrika Matilda Ulrihs Ulriks",
+      "day": "14",
+      "month": "03"
+
+    },
+    {
+      "names": "Imalda Amilda Amalda",
+      "noncalendarnames": "Fabiāns Fabijāns Ima Imelda Imula Inelda",
+      "day": "15",
+      "month": "03"
+
+    },
+    {
+      "names": "Guntris Guntis Guntars",
+      "noncalendarnames": "Falks Gaija Guntārs Gunts Gutars",
+      "day": "16",
+      "month": "03"
+
+    },
+    {
+      "names": "Gertrūde Ģertrūde Gerda",
+      "noncalendarnames": "Ferdinands Ferijs Fernands Gerarda Gerards Gerds Gerhards Ģertcuda Gertija Gertrūda Ģertrūda Gertrude Ģertrude Gerts Trauta Trautiņa Trūde Trūta Trūte Žerārs",
+      "day": "17",
+      "month": "03"
+
+    },
+    {
+      "names": "Ilona Adelīna",
+      "noncalendarnames": "Adelfina Adelina Fetna Ilāna Ilanda Ilanta Ileana Iliana Ilija Ilita Ilonda Ilone Ilonija Ilons",
+      "day": "18",
+      "month": "03"
+
+    },
+    {
+      "names": "Jāzeps",
+      "noncalendarnames": "Jāzepa Jazepata Jazeps Jazupata Jezufata Jezupata Jezupate Jēzups Jezups Jozefa Jozefata Jozefīna Jozefīne Jozefs Jozs Juzefa Juzefata Juzefate Juzefīna Juzefine Juzefs Juzepa Juzepata Juzepate Juzufata Osips Žozefina Žozefs",
+      "day": "19",
+      "month": "03"
+
+    },
+    {
+      "names": "Made Irbe",
+      "noncalendarnames": "Fraskita Frementijs Fritjofs Madaļa",
+      "day": "20",
+      "month": "03"
+
+    },
+    {
+      "names": "Unigunde Dzelme Una Benedikts",
+      "noncalendarnames": "Benedikta Dementijs Demija Geila Gelārijs Kunegunda Kunigunda Kuno Ūna Unija Ūnika Unita Uno Venedikts",
+      "day": "21",
+      "month": "03"
+
+    },
+    {
+      "names": "Tamāra Dziedra",
+      "noncalendarnames": "Ciedra Damārs Damirs Gabija Gabriēla Gabriela Gabriele Gabriella Gabriels Gabriēls Gavrils Gedra Giedra Ģiedra Tamara Tamārs",
+      "day": "22",
+      "month": "03"
+
+    },
+    {
+      "names": "Mirdza Žanete Žanna",
+      "noncalendarnames": "Džana Džaneta Džanete Džanita Džeina Džena Dženeta Dženete Dženifera Dženita Džesija Džesika Džina Džineta Džinita Džoanna Janeta Janete Janita Janta Jesija Žana Žaneta Žanija Žanneta",
+      "day": "23",
+      "month": "03"
+
+    },
+    {
+      "names": "Kazimirs Izidors",
+      "noncalendarnames": "Džeralda Džeraldīne Džeralds Džerijs Garlībs Geraldina Geralds Izīda Kazemirs Kazimerina Kazimira Kazimirina Kazis Kazmerina Kazmers Kazmirina Sidars Sidors Zidra",
+      "day": "24",
+      "month": "03"
+
+    },
+    {
+      "names": "Māra Mārīte Marita",
+      "noncalendarnames": "Geda Ģēda Gēda Ģedimins Gedimins Gregors Grigorijs Grigors Māre Māreta Mārieta Marijeta Mārita Marīte Marjeta",
+      "day": "25",
+      "month": "03"
+
+    },
+    {
+      "names": "Ženija Eiženija",
+      "noncalendarnames": "Dženija Eižēnija Euģenija Euģēnija Eugenija Eugēnija Evgēnija Evgenija Evģēnija Evģenija Gelija Gēlija Gelinta Žene Ženijs",
+      "day": "26",
+      "month": "03"
+
+    },
+    {
+      "names": "Tālrīts Gusts Gustavs",
+      "noncalendarnames": "Genefa Generoza Genija Genita Gentra Gesta Saulis Sauļus Tālrids Tālrita Tālrits",
+      "day": "27",
+      "month": "03"
+
+    },
+    {
+      "names": "Gunta Ginta Gunda",
+      "noncalendarnames": "Gianeja Gina Gineta Ginita Ģinta Gintija Gonda Gundija Gundis Guntiņa Igunda",
+      "day": "28",
+      "month": "03"
+
+    },
+    {
+      "names": "Aldonis Agija",
+      "noncalendarnames": "Agejs Agijs Aldons Gilberts",
+      "day": "29",
+      "month": "03"
+
+    },
+    {
+      "names": "Nanija Ilgmārs Igmārs",
+      "noncalendarnames": "Ignars Ilgmars Nana Nanete Nannija Nena",
+      "day": "30",
+      "month": "03"
+
+    },
+    {
+      "names": "Atvars Gvido",
+      "noncalendarnames": "Atstars Gido Gidons Gvida Gvidālija Gvidis Gvidons",
+      "day": "31",
+      "month": "03"
+
+    },
+    {
+      "names": "Dagnis Dagne",
+      "noncalendarnames": "Dagna Dagnijs Dagnita Gizela Glaima Glauda Gledisa Glenda Glendija Glens Glita Gvenda Innocentijs",
+      "day": "01",
+      "month": "04"
+
+    },
+    {
+      "names": "Imgarde Irmgarde",
+      "noncalendarnames": "Grācija Gracijans Grants Grasilda Grata Grats Gražina Grizelda Irmgarda Irmtrauta Irmtraute",
+      "day": "02",
+      "month": "04"
+
+    },
+    {
+      "names": "Daira Dairis",
+      "noncalendarnames": "Dairita Daiva Daivis Grineta Grinete Grita",
+      "day": "03",
+      "month": "04"
+
+    },
+    {
+      "names": "Valda Herta Ārvalda Ārvalds",
+      "noncalendarnames": "Arvaldina Ārvaldis Arvalds",
+      "day": "04",
+      "month": "04"
+
+    },
+    {
+      "names": "Vija Vidaga Aivija",
+      "noncalendarnames": "Aivijs Vidaija Vide Vīdega Vijārs",
+      "day": "05",
+      "month": "04"
+
+    },
+    {
+      "names": "Zinta Vīlips Filips Dzinta",
+      "noncalendarnames": "Dzine Dzintis FīIips Filipina",
+      "day": "06",
+      "month": "04"
+
+    },
+    {
+      "names": "Zina Zinaīda Helmuts",
+      "noncalendarnames": "Elmo Elmonds Elmuts Helmute Helmūts Zena Zenaida Zinaida Zinaidis Zinaids Zinīda",
+      "day": "07",
+      "month": "04"
+
+    },
+    {
+      "names": "Edgars Danute Dana Dans",
+      "noncalendarnames": "Adgars Dajana Dane Daneks Daneta Danica Danida Danija Danijs Danika Danis Danita Danna Danuta Daņuta Denija Denijs Edgards Edgārs",
+      "day": "08",
+      "month": "04"
+
+    },
+    {
+      "names": "Valērija Žubīte Alla",
+      "noncalendarnames": "Ala Alesja Allija Alondra Matrjona Matrona Valeriana Valerianna Valerija Valerijana Valerjana",
+      "day": "09",
+      "month": "04"
+
+    },
+    {
+      "names": "Anita Anitra Zīle",
+      "noncalendarnames": "Anaita Aniceta Anicets Anija Anika Anis Annika Zīlīte",
+      "day": "10",
+      "month": "04"
+
+    },
+    {
+      "names": "Hermanis Vilmārs",
+      "noncalendarnames": "Ermanis Ērmanis Ermans Ernando Hermans Hermunds Vilmars",
+      "day": "11",
+      "month": "04"
+
+    },
+    {
+      "names": "Jūlijs Ainis",
+      "noncalendarnames": "Jūlijans Julijs Jūliuss Juļjāns",
+      "day": "12",
+      "month": "04"
+
+    },
+    {
+      "names": "Egīls Egils Nauris",
+      "noncalendarnames": "Aigils Naula Neila Neils Noela Nolāns",
+      "day": "13",
+      "month": "04"
+
+    },
+    {
+      "names": "Strauja Gudrīte",
+      "noncalendarnames": "Engelberts Engelīna Gudmunds Gudruna Sagita Siguta Sigute Zigeta Zigija",
+      "day": "14",
+      "month": "04"
+
+    },
+    {
+      "names": "Aelita Gastons",
+      "noncalendarnames": "Haida Haide Hamilkārs Heidija",
+      "day": "15",
+      "month": "04"
+
+    },
+    {
+      "names": "Mintauts Alfs Bernadeta",
+      "noncalendarnames": "Alfa Alfejs Alfija Alfijs Bemadita Bernada Bernāde Bernadete Bernadīte Mindaugs",
+      "day": "16",
+      "month": "04"
+
+    },
+    {
+      "names": "Rūdolfs Rūdis Viviāna",
+      "noncalendarnames": "Hardija Hārdijs Hardis Harlijs Harvijs Kardijs Rudi Rudiards Rudolfs Viviana",
+      "day": "17",
+      "month": "04"
+
+    },
+    {
+      "names": "Laura Jadviga",
+      "noncalendarnames": "Jadvīga Jadze Jedviga Laure Laurentīna Laureta Laurita",
+      "day": "18",
+      "month": "04"
+
+    },
+    {
+      "names": "Vēsma Fanija",
+      "noncalendarnames": "Fannija Feja Felonija Fenija Feona Feonija Fionija Hēlija Helijs Heliodors Helita Helju Hella Hellija Helta Vēsmiņa",
+      "day": "19",
+      "month": "04"
+
+    },
+    {
+      "names": "Mirta Ziedīte",
+      "noncalendarnames": "Bitīte Flora Florence Florentija Florentīna Florentīne Floriana Floriāns Florija Florijana Florijans Florijs Henija Henisa Henita Hennija Henno Hiacinta Jacinta Orhideja",
+      "day": "20",
+      "month": "04"
+
+    },
+    {
+      "names": "Marģers Anastasija",
+      "noncalendarnames": "Afanasija Afanasijs Anastāsija Anastāsijs Anastāzija Anastāzijs Atanazijs Hēra Hera Herenija Herita Marģeris Marģis Nastasija Nastja",
+      "day": "21",
+      "month": "04"
+
+    },
+    {
+      "names": "Armanda Armands",
+      "noncalendarnames": "Arma Armando Armants Armass Hetija Hevijs Vadims",
+      "day": "22",
+      "month": "04"
+
+    },
+    {
+      "names": "Jurģis Juris Georgs",
+      "noncalendarnames": "Džordžs Georgijs Irži Jurands Juranta Jureks Jureta Jurgita Jurijs Jurika Juriks Jurita Žoržs",
+      "day": "23",
+      "month": "04"
+
+    },
+    {
+      "names": "Visvaldis Nameda Ritvaldis",
+      "noncalendarnames": "Honorads Honorata Honoreta Horsts Hortenzija Ortenzija Ortija Ritums Ritvalds Visvalda Visvalds Visvaris Visvars",
+      "day": "24",
+      "month": "04"
+
+    },
+    {
+      "names": "Līksma Bārbala",
+      "noncalendarnames": "Barbala Barbola Borbala Borbola Borbula",
+      "day": "25",
+      "month": "04"
+
+    },
+    {
+      "names": "Alīna Sandris Rūsiņš",
+      "noncalendarnames": "Alina Aļina Alīne Imārs Imarts Sandars Sanders Sandors Šandors Sandrino Sandro Sandrs",
+      "day": "26",
+      "month": "04"
+
+    },
+    {
+      "names": "Raimonda Raina Tāle Klementīne",
+      "noncalendarnames": "Ingolfs Inolds Klemans Klemens Klemenss Klementijs Klementīna Klementine Klementīns Klements Klimans Klimentijs Klimentīna Raima Raimija Raimona Rimona Rimonda Tāla",
+      "day": "27",
+      "month": "04"
+
+    },
+    {
+      "names": "Gundega Terēze",
+      "noncalendarnames": "Inrigo Teresa Terēsa Terese Terēse Terēsija Teresija Terēza Tereza Tereze Terezija Terēzija",
+      "day": "28",
+      "month": "04"
+
+    },
+    {
+      "names": "Vilnis Raimonds Laine",
+      "noncalendarnames": "Irta Iruta Irute Laina Laineta Lainis Leina Leino Raimis Raimo Raimons Raimunds Reimo Rimonds Rimons",
+      "day": "29",
+      "month": "04"
+
+    },
+    {
+      "names": "Lilija Liāna",
+      "noncalendarnames": "Altairs Dālija Elta Eltons Isma Itallo Itālo Lia Liana Lianda Lianta Līlija Lilja Lillija",
+      "day": "30",
+      "month": "04"
+
+    },
+    {
+      "names": "Ziedonis",
+      "noncalendarnames": "Izanda Izaura Jalmars Jūtvaldis Kuzma Ziednese Ziedons Ziedvalda",
+      "day": "01",
+      "month": "05"
+
+    },
+    {
+      "names": "Zigmunds Sigmunds Zigismunds",
+      "noncalendarnames": "Jaroslava Jaroslavs Jeroslavs Jūrāte Jūris Sigismunds Sigizmunds Sigunds Zigis Zigizmunds Zigmans Zigmants Zigmonds Zigmonts Zigmunda Zigmunts",
+      "day": "02",
+      "month": "05"
+
+    },
+    {
+      "names": "Gints Uvis",
+      "noncalendarnames": "Gintis Ģints Jella Jermolajs Juvents Juvita",
+      "day": "03",
+      "month": "05"
+
+    },
+    {
+      "names": "Vizbulīte Viola Vijolīte",
+      "noncalendarnames": "Kaido Violanda Violanta Violenta Vizbule Vizbulis",
+      "day": "04",
+      "month": "05"
+
+    },
+    {
+      "names": "Ģirts Ģederts",
+      "noncalendarnames": "Kaliksts Kalins Keisija Keits Omārs Otārs Rahmats Raksana Rašids",
+      "day": "05",
+      "month": "05"
+
+    },
+    {
+      "names": "Gaidis Didzis",
+      "noncalendarnames": "Didrihs Didriķis Didžus Dīters Gaidonis Gaidvars",
+      "day": "06",
+      "month": "05"
+
+    },
+    {
+      "names": "Jete Henriete Henrijs",
+      "noncalendarnames": "Domicela Domicele Domicelija Domicella Donicela Enrija Enrijs Enrika Enriketa Enriko Enriks Henrieta Henrija Henrita Jeta",
+      "day": "07",
+      "month": "05"
+
+    },
+    {
+      "names": "Staņislavs Staņislava Stefānija",
+      "noncalendarnames": "Kasandra Stanislava Stanislavs Stase Stasija Stasis Stasja Stass Stefanīda Stefanija Stepanīda Stepānija",
+      "day": "08",
+      "month": "05"
+
+    },
+    {
+      "names": "Klāvs Einārs Ervīns",
+      "noncalendarnames": "Eina Einards Einars Einarts Einis Eino Ervids Ervijs Ervils Ervīna Ervins Ervis Ervita Glafīra Kevins Klaidis Klaids Klāss Timofejs Timotejs Tims",
+      "day": "09",
+      "month": "05"
+
+    },
+    {
+      "names": "Maija Paija",
+      "noncalendarnames": "Kelija Kellija Kenets Kestutis Ketlīna",
+      "day": "10",
+      "month": "05"
+
+    },
+    {
+      "names": "Milda Karmena Manfreds",
+      "noncalendarnames": "Karmene Kilikeja Kima Kimberiija Kims Manfrēds Mildreda",
+      "day": "11",
+      "month": "05"
+
+    },
+    {
+      "names": "Valija Ināra Ina Inārs",
+      "noncalendarnames": "Anāra Anārs Īna Inaida Inara Inārija Inārijs Inars Inarta Inarts Inatra Inija Inna Innara Ino Valijs Vallija",
+      "day": "12",
+      "month": "05"
+
+    },
+    {
+      "names": "Irēna Irīna Ira Iraīda",
+      "noncalendarnames": "Airīna Arīna Arīns Arions Īra Iraida Iraidis Irena Irene Irēne Irenejs Irenijs Irēnijs Irija Irīna Irinejs Ironijs",
+      "day": "13",
+      "month": "05"
+
+    },
+    {
+      "names": "Krišjānis Elfa Elvita Aivita",
+      "noncalendarnames": "Elfija Krišjāns Kristjānis Kristjans",
+      "day": "14",
+      "month": "05"
+
+    },
+    {
+      "names": "Sofija Taiga Arita Airita",
+      "noncalendarnames": "Airite Airtons Gļebs Sofja Soņa Sonija Sonita Volga Zofija Zosja",
+      "day": "15",
+      "month": "05"
+
+    },
+    {
+      "names": "Edvīns Edijs",
+      "noncalendarnames": "Edija Ediks Edis Edvija Edvijs Edvīna Edvīne Edvins Kleofa Kleopatra Kleotilda Klodija Klods Klotilde",
+      "day": "16",
+      "month": "05"
+
+    },
+    {
+      "names": "Herberts Dailis Umberts",
+      "noncalendarnames": "Dailonis Dailons Deils Erberts Erhards Koleta",
+      "day": "17",
+      "month": "05"
+
+    },
+    {
+      "names": "Inese Inesis Ēriks",
+      "noncalendarnames": "Erihs Ērihs Eriks Ero Ēro Ignese Inesa Inesīte Konsuela Konsuella Kreigs",
+      "day": "18",
+      "month": "05"
+
+    },
+    {
+      "names": "Lita Sibilla Teika",
+      "noncalendarnames": "Ksaverija Ksavērija Ksaverijs Ksavērijs Ksavers",
+      "day": "19",
+      "month": "05"
+
+    },
+    {
+      "names": "Venta Salvis Selva",
+      "noncalendarnames": "Fadejs Lada Ladislavs Laira Lala Salvija Salvijs Salvo Selvijs Selvīns Selvis Solvis Tadeušs",
+      "day": "20",
+      "month": "05"
+
+    },
+    {
+      "names": "Ernestīne Ingmārs Akvelīna",
+      "noncalendarnames": "Akilina Akulina Akuļina Akvelina Akvilīna Avelīna Erneste Ernestīna Ernestine Ingemāra Ingemārs Ingmāra Ingmars Ingomars Inmārs",
+      "day": "21",
+      "month": "05"
+
+    },
+    {
+      "names": "Emīlija",
+      "noncalendarnames": "Ahmads Ahmeds Airats Ali Alija Džamila Emiliana Emilija Emilijana Emīlja Emiljana Farhads Farida Farids Fatima Fatina Fatma Gaidars Gulnara Guļnara Horens Indīra Ismails Kālebs Karims Mehribana Murads Muslims Osmars",
+      "day": "22",
+      "month": "05"
+
+    },
+    {
+      "names": "Leontīne Lonija Ligija Leokādija",
+      "noncalendarnames": "Leokadija Leontija Leontijs Leontīna Leontine Leontīns Levantīna Ligindra Ļoņa Lone Lonita Lonnija Lontīne",
+      "day": "23",
+      "month": "05"
+
+    },
+    {
+      "names": "Ilvija Marlēna Ziedone",
+      "noncalendarnames": "Kurbads Kurbats Mariens Marlena Ziedonija",
+      "day": "24",
+      "month": "05"
+
+    },
+    {
+      "names": "Anšlavs Junora",
+      "noncalendarnames": "Andzelms Anselms Anzelma Anzelms Juna Jūnija Jūnijs Junita Junona Junta Krīvs",
+      "day": "25",
+      "month": "05"
+
+    },
+    {
+      "names": "Eduards Edvards Varis",
+      "noncalendarnames": "Eduarda Eduārds Eduars Edvārts Eidis Tedijs Tedis Varaidotis Varaidots Varimands Varimants Varita Varite Varonis",
+      "day": "26",
+      "month": "05"
+
+    },
+    {
+      "names": "Dzidra Dzidris Gunita Loreta",
+      "noncalendarnames": "Aglikerija Dzidrite Glikerija Guneta Gunitra Lora Lorands Loransa Loreina Lorena Lorēna Lorens Lorensa Lorenss Lorenta Lorete Lorija Lorijs Lorika Lorina Lorita",
+      "day": "27",
+      "month": "05"
+
+    },
+    {
+      "names": "Vilis Vilhelms",
+      "noncalendarnames": "Langina Lengina Leongīna Leongīne Leongīns Logina Longīna Longins Vilārs Vilberts Vilens Vilhelmīns Vilijs Viljams Villems Villijs Viļums Viļus",
+      "day": "28",
+      "month": "05"
+
+    },
+    {
+      "names": "Maksis Raivis Raivo",
+      "noncalendarnames": "Largija Larija Larijs Larina Larions Laris Maksimiliāns Maksims Makss Raiva Raivita",
+      "day": "29",
+      "month": "05"
+
+    },
+    {
+      "names": "Vitolds Lolita",
+      "noncalendarnames": "Jevdokija Lalita Lea Leāna Leāra Leida Leila Letīcija Levijs Levita Logita Lola Lolija Lollija Vitolda Vitols",
+      "day": "30",
+      "month": "05"
+
+    },
+    {
+      "names": "Alīda Jūsma",
+      "noncalendarnames": "Alida Alīde Alīdija Alis Amīda Elīda Faina Jūsmiņš Lendija Petronela Petronele Petronelija Petronella Petronellija Petrunela Petruneļa Petrunele Petrunelija",
+      "day": "31",
+      "month": "05"
+
+    },
+    {
+      "names": "Biruta Mairita Bernedīna",
+      "noncalendarnames": "Bernadina Bernadīne Birute Leolita Liāra Liards Mairite Mairuta Nikodems Nikodēms Nikodims",
+      "day": "01",
+      "month": "06"
+
+    },
+    {
+      "names": "Emma Lība",
+      "noncalendarnames": "Ema Emija Emilda Emme Liberata Liberijs Liona Lioneta Lionija",
+      "day": "02",
+      "month": "06"
+
+    },
+    {
+      "names": "Inta Intra Ineta",
+      "noncalendarnames": "Inete Inneta Inota Lipija Lira Līrija",
+      "day": "03",
+      "month": "06"
+
+    },
+    {
+      "names": "Elfrīda Sintija Sindija",
+      "noncalendarnames": "Cera Cerība Ceronis Cerons Elfrida Elfrīde Elfrīds Sinda Sindijs Sindra Sinita Sinta Sinti Sintijs Taive Taivo Toivo Zinda Zindra Zinija",
+      "day": "04",
+      "month": "06"
+
+    },
+    {
+      "names": "Igors Margots Ingvars",
+      "noncalendarnames": "Argija Argils Argita Argo Argods Argons Argots Argunda Arguts Igars Inguards Ingvards Ingvilda Ingvilds Jegors Margonis Margons Margota Margote Marguss Marguta Marguts",
+      "day": "05",
+      "month": "06"
+
+    },
+    {
+      "names": "Ingrīda Ardis",
+      "noncalendarnames": "Ards Ingra Ingre Ingreta Ingrida Ingrita Kandida Kendija Loida",
+      "day": "06",
+      "month": "06"
+
+    },
+    {
+      "names": "Gaida Arnis",
+      "noncalendarnames": "Amijs Arne Arno Ārons Gaidite Loveta Luāna Lueta Lugra Lukrecija Lukrēcija",
+      "day": "07",
+      "month": "06"
+
+    },
+    {
+      "names": "Frīdis Frīda Mundra",
+      "noncalendarnames": "Frida Fridberts Fridis Munda Mundis Mundris Mundrīte Salamons Salimona Salimonija Salimons Salome Salomeja Salomija Salomons Solomeja Solomija Solomonija Solomons Solumeja Zālamans Zalamons",
+      "day": "08",
+      "month": "06"
+
+    },
+    {
+      "names": "Ligita Gita",
+      "noncalendarnames": "Gitāna Gitija Gits Ļudgarda",
+      "day": "09",
+      "month": "06"
+
+    },
+    {
+      "names": "Malva Anatols",
+      "noncalendarnames": "Anata Anatolija Anatolijs Mafalda Mazalda",
+      "day": "10",
+      "month": "06"
+
+    },
+    {
+      "names": "Ingus Mairis Vidvuds",
+      "noncalendarnames": "Engus Inguss Mairolds Mairs Makrina Mamerts Videvuds Videvuts Vidis Vido Vidulis Vidvars Vidvedis Vidvuts",
+      "day": "11",
+      "month": "06"
+
+    },
+    {
+      "names": "Nora Ija Lenora",
+      "noncalendarnames": "Īģe Manda Norgita Norika Noriņa Noris Norīte Norītis Norvalda",
+      "day": "12",
+      "month": "06"
+
+    },
+    {
+      "names": "Zigfrīds Ainārs Uva",
+      "noncalendarnames": "Aināra Ainards Ainars Ūva Uve Zigfrids",
+      "day": "13",
+      "month": "06"
+
+    },
+    {
+      "names": "Tija Saiva Saivis Sentis Santis",
+      "noncalendarnames": "Saiga Saigits Saija Saila Sailita Saira Sairis Sairita Santijs Santo Santoss",
+      "day": "14",
+      "month": "06"
+
+    },
+    {
+      "names": "Baņuta Žermēna Vilija Vits",
+      "noncalendarnames": "Maranda Maranta Marats Moda Modesta Modests Modis Vila Vilenta Vilita Vilja Viljanta Villija Vitis Vito Vitus Žermena",
+      "day": "15",
+      "month": "06"
+
+    },
+    {
+      "names": "Justīne Juta",
+      "noncalendarnames": "Džastina Džastins Justa Justīna Justine Justīnija Marsela Marseljēza Marsella Marsels Ustinija Ustiņja",
+      "day": "16",
+      "month": "06"
+
+    },
+    {
+      "names": "Artūrs Arturs Artis",
+      "noncalendarnames": "Arčijs Arčils Arsenijs Arsēnijs Arsens Arsēns Arsentijs Artijs Artiks Arts Arturs Mečeslavs Mečislava Mečislavs Palmīra Pamela",
+      "day": "17",
+      "month": "06"
+
+    },
+    {
+      "names": "Alberts Madis",
+      "noncalendarnames": "Adalberta Adalberts Alberta Edilberts Merseda Mersēda Mersedesa Mervils",
+      "day": "18",
+      "month": "06"
+
+    },
+    {
+      "names": "Viktors Nils",
+      "noncalendarnames": "Mīla Milāna Milāns Mīle Milēna Milena Milona Milvards Milvars Milvija Napoleons Nila Nilija Nīls Nilss Niluta Vikijs Viktorijs Vitors",
+      "day": "19",
+      "month": "06"
+
+    },
+    {
+      "names": "Rasma Rasa Maira",
+      "noncalendarnames": "Maila Maima Maina Mairina Mimoza Molija Mollija Mora Morēna Rasita Rasmīte Rasulīte",
+      "day": "20",
+      "month": "06"
+
+    },
+    {
+      "names": "Emīls Egita Monvīds",
+      "noncalendarnames": "Ahto Egīna Egīns Egits Emilians Emilijans Emīlijs Emīlis Emiljans Emils Jemeļjans Monrita Monvida Monvids",
+      "day": "21",
+      "month": "06"
+
+    },
+    {
+      "names": "Ludmila Laimdots Laimiņš",
+      "noncalendarnames": "Bogdans Bogumila Laimdotis Ludmilla Lūlija Lusja",
+      "day": "22",
+      "month": "06"
+
+    },
+    {
+      "names": "Līga",
+      "noncalendarnames": "Līgonis Līgotnis",
+      "day": "23",
+      "month": "06"
+
+    },
+    {
+      "names": "Jānis",
+      "noncalendarnames": "<NAV_NEVIENS_VĀRDS>",
+      "day": "24",
+      "month": "06"
+
+    },
+    {
+      "names": "Milija Maiga",
+      "noncalendarnames": "Maida Maigone Mija Milica Milita Millija",
+      "day": "25",
+      "month": "06"
+
+    },
+    {
+      "names": "Ausma Ausmis Inguna Inguns",
+      "noncalendarnames": "Ingūna Ingunda Ingūns Ingūra Ingurds Ingurs Inguta Mūza Naidžels",
+      "day": "26",
+      "month": "06"
+
+    },
+    {
+      "names": "Malvīne Malvis",
+      "noncalendarnames": "Jelisejs Malvīna Malvine Naila Naina Naira Nansija Naomi Nensija",
+      "day": "27",
+      "month": "06"
+
+    },
+    {
+      "names": "Viesturs Viestards Kitija",
+      "noncalendarnames": "Klitija Narcise Narciss Narciza Nargisa Nargiza Vestards Viestars Viestarts Viesturis Vieturs",
+      "day": "28",
+      "month": "06"
+
+    },
+    {
+      "names": "Pēteris Pāvils Pauls Paulis",
+      "noncalendarnames": "Nareks Nārija Narimans Narimants Narine Pāvels Pavils Pāvuls Pēters Petra Petro Petrs Pīters Pits Pjotrs Pols",
+      "day": "29",
+      "month": "06"
+
+    },
+    {
+      "names": "Tālivaldis Mareks",
+      "noncalendarnames": "Mareka Mariks Mereks Savelijs Tālivalda Tālivalds Tālvaldis",
+      "day": "30",
+      "month": "06"
+
+    },
+    {
+      "names": "Imants Rimants Ingars Intars",
+      "noncalendarnames": "Ingārs Ingera Ingēra Ingerts Intārs Natans Rimands Rimanta",
+      "day": "01",
+      "month": "07"
+
+    },
+    {
+      "names": "Lauma Ilvars Halina",
+      "noncalendarnames": "Galina Gaļina Halīna Ilvārs Ilvers Laumīte Nāra Necija Neda",
+      "day": "02",
+      "month": "07"
+
+    },
+    {
+      "names": "Benita Everita Verita",
+      "noncalendarnames": "Benigna Benilda Benito Emarita Emerenciana Emerencija Emerencijana Emerenta Emerentiana Emerentina Emerentīne Emerita Emertijana Emīra Emirita Enerita Gorijs Gurijs",
+      "day": "03",
+      "month": "07"
+
+    },
+    {
+      "names": "Uldis Ulvis Sandis",
+      "noncalendarnames": "Nērika Neringa Nida Nigra Sandijs Sando Sandus Sanduss Sendijs Uldriķis Ulfs Ulvars Ulvija Ulvita",
+      "day": "04",
+      "month": "07"
+
+    },
+    {
+      "names": "Andžs Andžejs Edīte Esmeralda",
+      "noncalendarnames": "Anžijs Edīta Edite Endžija Esmeralde",
+      "day": "05",
+      "month": "07"
+
+    },
+    {
+      "names": "Anrijs Arkādijs",
+      "noncalendarnames": "Agripina Anrī Anris Anriss Anrita Arkādija Haldons Haldors Heldurs Niāra Niceta",
+      "day": "06",
+      "month": "07"
+
+    },
+    {
+      "names": "Alda Maruta",
+      "noncalendarnames": "Aldija Aldīna Māruta Marute Nija Nijole Niola",
+      "day": "07",
+      "month": "07"
+
+    },
+    {
+      "names": "Antra Adele Ada",
+      "noncalendarnames": "Adala Adela Adelaida Adelaide Adelgunde Adelheida Adelheide Adelija Adēlija Adelions Adeljans Adeļjons Adija Adis Antris Fevronija Nimmija Nīra Nita",
+      "day": "08",
+      "month": "07"
+
+    },
+    {
+      "names": "Zaiga Asne Asna",
+      "noncalendarnames": "Kirils Nominanda Nona Nonna Zaigonis",
+      "day": "09",
+      "month": "07"
+
+    },
+    {
+      "names": "Lija Olīvija",
+      "noncalendarnames": "Odrija Olīva Olivers Olivija Olvija Olvita Samsons",
+      "day": "10",
+      "month": "07"
+
+    },
+    {
+      "names": "Leonora Svens",
+      "noncalendarnames": "Lennijs Lenvija Leonorija Svenis Taila Taimira Taunis",
+      "day": "11",
+      "month": "07"
+
+    },
+    {
+      "names": "Indriķis Ints Namejs",
+      "noncalendarnames": "Indriks Intis Nameisis Omula Oniks Oniksa",
+      "day": "12",
+      "month": "07"
+
+    },
+    {
+      "names": "Margrieta Margarita",
+      "noncalendarnames": "Magrieta Malgožata Margareta Margarēta Margarieta Mārģieta Margieta Margnta Margreta Pegija",
+      "day": "13",
+      "month": "07"
+
+    },
+    {
+      "names": "Oskars Ritvars Anvars",
+      "noncalendarnames": "Anufrijs Ornella Ornets Ortando Oskarīna",
+      "day": "14",
+      "month": "07"
+
+    },
+    {
+      "names": "Egons Egmonts Egija Henriks Heinrihs",
+      "noncalendarnames": "Ega Egijs Egmonds Egmonta Ego Heincs Heindrihs Heinis Heino Heinrihs Heinriks Hendrihs Hendriks Henrika",
+      "day": "15",
+      "month": "07"
+
+    },
+    {
+      "names": "Hermīne Estere",
+      "noncalendarnames": "Aleftīna Aleftine Aleta Alevtīna Alevtīne Esfira Estera Ēstere Estra Herma Hermīna Hermine Hervita Ostins Rainelda Rainelde",
+      "day": "16",
+      "month": "07"
+
+    },
+    {
+      "names": "Aleksis Aleksejs",
+      "noncalendarnames": "Alekss Alika Aliks Aļiks Pijs Pius",
+      "day": "17",
+      "month": "07"
+
+    },
+    {
+      "names": "Rozālija Roze",
+      "noncalendarnames": "Rosita Rosvita Roza Rozalija Rozemarija Rozita Rozīte Rozmarija Rozvita",
+      "day": "18",
+      "month": "07"
+
+    },
+    {
+      "names": "Jautrīte Kamila Digna",
+      "noncalendarnames": "Digne Jautra Jautris Kamēlija Kamena Kamīlija Kamilla Kamils Kamita Pireta Sallija Sallijs Sāra Sarika Sarita Seila Sella Sellija Zallija Zara Zarina",
+      "day": "19",
+      "month": "07"
+
+    },
+    {
+      "names": "Ritma Ramona",
+      "noncalendarnames": "Platons Plūdonis Rada Radimins Ramons Ramuna Ramune Ramute Ritmars",
+      "day": "20",
+      "month": "07"
+
+    },
+    {
+      "names": "Melisa Meldra Meldris",
+      "noncalendarnames": "Potencija Pudencija Pudentija",
+      "day": "21",
+      "month": "07"
+
+    },
+    {
+      "names": "Marija Marika Marina",
+      "noncalendarnames": "Marī Mārika Marīna Marjama Mirjāma Mirjana",
+      "day": "22",
+      "month": "07"
+
+    },
+    {
+      "names": "Magda Magone Mērija Magdalēna",
+      "noncalendarnames": "Madelaina Madlena Madlēna Magdalena Magdaliene Magdalina Meralda Meri Merīda Merija Merilina Merita Radislavs Radmila Radomirs",
+      "day": "23",
+      "month": "07"
+
+    },
+    {
+      "names": "Kristīne Krista Kristiāna Kristiāns",
+      "noncalendarnames": "Ķērsta Ķersta Kersti Kerstina Kriste Kristela Kristena Kristiana Kristiāne Kristianna Kristians Kristija Kristijana Kristijāns Kristilla Kristīna Kristine",
+      "day": "24",
+      "month": "07"
+
+    },
+    {
+      "names": "Jēkabs Žaklīna",
+      "noncalendarnames": "Džeims Džeimss Džema Džemma Džems Džemss Džims Jaceks Jakobīna Jakobs Jakovs Jākubs Žaklina Žaklīne Žaks",
+      "day": "25",
+      "month": "07"
+
+    },
+    {
+      "names": "Anna Annija Ance",
+      "noncalendarnames": "Ana Aņa Anabella Ancis Aņela Anne Annele Annelija Anniņa Aņuta Ona Oneta",
+      "day": "26",
+      "month": "07"
+
+    },
+    {
+      "names": "Marta Dita",
+      "noncalendarnames": "Dite Mārta Martijana Martīna Radu Radvilis Radvils Raēle",
+      "day": "27",
+      "month": "07"
+
+    },
+    {
+      "names": "Cecīlija Cilda",
+      "noncalendarnames": "Cecilija Celerīna Celīna Cicilija Cildis Cildonis Cilija Cilina Cilmija Cilnija Rafaels Rafaēls Rafails Rafiks",
+      "day": "28",
+      "month": "07"
+
+    },
+    {
+      "names": "Edmunds Edžus Vidmants",
+      "noncalendarnames": "Asmunds Ausmunds Edmonda Edmonds Edmons Edmunts Raida Raiders Raido Raiena Raiens Raigards Raigo Raija Vidmands Vidmunds",
+      "day": "29",
+      "month": "07"
+
+    },
+    {
+      "names": "Valters Renārs",
+      "noncalendarnames": "Ragnārs Ragnēda Ragnija Regnārs Reinards Reinārs Reiners Renards Renars Renarts Rinards Rinārs Valteris Valtra Valtraude Valtrauta Valtraute",
+      "day": "30",
+      "month": "07"
+
+    },
+    {
+      "names": "Ruta Rūta Angelika Sigita",
+      "noncalendarnames": "Andžela Andželika Andželīna Andželita Andžella Andželo Anga Angarijs Angeļa Angela Angelija Angēlika Angelīna Angelita Anhelita Anžela Anželika Anželina Anželita Anžella Rūte Rūtiņa Sigeta Sigija Sigits",
+      "day": "31",
+      "month": "07"
+
+    },
+    {
+      "names": "Albīns Albīna",
+      "noncalendarnames": "Alba Albina Albīne Albins Ramērs Ramils Ramīna Ramiro",
+      "day": "01",
+      "month": "08"
+
+    },
+    {
+      "names": "Normunds Stefans",
+      "noncalendarnames": "Eliass Eliašs Elija Elijass Elijašs Elijs Eljašs Holgers Iļja Iljana Iļjana Norlands Norma Normands Normans Normanta Normants Normens Normuds Normunda Stefāns Stepans Stepons Stīvens",
+      "day": "02",
+      "month": "08"
+
+    },
+    {
+      "names": "Augusts",
+      "noncalendarnames": "Augustīns Ogists Oktavians Oktāvija Onufrija Onufrijs",
+      "day": "03",
+      "month": "08"
+
+    },
+    {
+      "names": "Romāns Romualds Romualda",
+      "noncalendarnames": "Roma Romalda Romalds Romanda Romands Romānija Romans Romants Romass Romena Romēna Romēns Romeo Rometa Romija Romis Roms Romulds Romvalda Romvalds",
+      "day": "04",
+      "month": "08"
+
+    },
+    {
+      "names": "Osvalds Arvils",
+      "noncalendarnames": "Arvīns Osvaldis Rasmuss Rauza Ravena Ravita Salma Salme",
+      "day": "05",
+      "month": "08"
+
+    },
+    {
+      "names": "Askolds Aisma",
+      "noncalendarnames": "Aista Asma Reds Reičela Remberts",
+      "day": "06",
+      "month": "08"
+
+    },
+    {
+      "names": "Alfrēds Fredis Madars",
+      "noncalendarnames": "Alfra Alfreds Alfrīda Alfrīds Alimpiada Alva Alvaro Alvars Fredijs Freds Olimpiada Olimpija Remigijs Remijs Remirs Remo Rems",
+      "day": "07",
+      "month": "08"
+
+    },
+    {
+      "names": "Mudīte Vladislavs Vladislava",
+      "noncalendarnames": "Midite Mudijs Mudiņš Mudis Rendija Rendijs Renē Renno Reno Rens Reons Vlada Vladeks",
+      "day": "08",
+      "month": "08"
+
+    },
+    {
+      "names": "Madara Genoveva",
+      "noncalendarnames": "Anfija Anfisa Genovaite Genovefa Ģenovefa Genoveja Genovera Genuvefa Gunavefa Madare Sava",
+      "day": "09",
+      "month": "08"
+
+    },
+    {
+      "names": "Brencis Inuta Audris",
+      "noncalendarnames": "Auda Audars Brenda Brendons Breta Brets Brina Brinda Labrencis Lars Larss Laurentijs Lavrentijs",
+      "day": "10",
+      "month": "08"
+
+    },
+    {
+      "names": "Olga Zita Zigita Liega",
+      "noncalendarnames": "Olesija Oļesija Olesja Oļesja Olgita Olmars Olrita",
+      "day": "11",
+      "month": "08"
+
+    },
+    {
+      "names": "Vizma Klāra",
+      "noncalendarnames": "Klara Klēra Reta Rets Revita Revs Vizulis",
+      "day": "12",
+      "month": "08"
+
+    },
+    {
+      "names": "Elvīra Velga",
+      "noncalendarnames": "Elvira Elvīrs Hipolits Ilvīra Ipolits Rezēda Rezenda Rezija Rēzija",
+      "day": "13",
+      "month": "08"
+
+    },
+    {
+      "names": "Zelma Zemgus Virma",
+      "noncalendarnames": "Rianda Riandra Rids Rieta Selma Zelmars Zemlita Zemvaldis Zemvalds",
+      "day": "14",
+      "month": "08"
+
+    },
+    {
+      "names": "Zenta Dzelde Zelda",
+      "noncalendarnames": "Dzeja Dzestra Rima Rimars Rimma Rimvalda Rinvalda Zelga Zenita",
+      "day": "15",
+      "month": "08"
+
+    },
+    {
+      "names": "Astra Astrīda",
+      "noncalendarnames": "Asterija Astērija Astērijs Astrida Astrīde Astrīds Astrīte Rinta Rio Riona Rivo",
+      "day": "16",
+      "month": "08"
+
+    },
+    {
+      "names": "Vineta Oļegs",
+      "noncalendarnames": "Rjuriks Roalds Roans Ruriks Veņa Veneta Venita Venjamina Vinete Vinets Vinita",
+      "day": "17",
+      "month": "08"
+
+    },
+    {
+      "names": "Liene Liena Helēna Elena Ellena",
+      "noncalendarnames": "Aļona Elana Elands Elans Elens Ellana Elāna Elāns Elēna Helena Helene Hellēna Helēne Jeļena Lena Lenija Lenita Lienīte Lēna",
+      "day": "18",
+      "month": "08"
+
+    },
+    {
+      "names": "Melānija Imanta",
+      "noncalendarnames": "Imanda Imandra Malānija Māle Malgonija Malle Melanija Melija Melinda Melisandra Melizanda Melizande Rodžers Roēna Rogate",
+      "day": "19",
+      "month": "08"
+
+    },
+    {
+      "names": "Bernhards Boriss",
+      "noncalendarnames": "Bernads Bernarda Bernarde Bernardīna Bernards Bernārs Bernats Borislavs Rojs Rokijs Roko Roksana Rusanda Ruzanna Ruze Samuels Samuēls Samvels Zāmuels",
+      "day": "20",
+      "month": "08"
+
+    },
+    {
+      "names": "Janīna Linda",
+      "noncalendarnames": "Janina Jaņīna Linde Lindija Lindons Linna Romāra Romina Romunds Romuss Romuta",
+      "day": "21",
+      "month": "08"
+
+    },
+    {
+      "names": "Rudite Everts",
+      "noncalendarnames": "Evarists Evars Evarts Rode Rodijs Ruda",
+      "day": "22",
+      "month": "08"
+
+    },
+    {
+      "names": "Vitālijs Ralfs Valgudis",
+      "noncalendarnames": "Ralda Raldis Rolfs Rolijs Rolita Vitālija Vitalijs Vitalina Vitālis Vitalisa Vitaliss Vitāls Vitars",
+      "day": "23",
+      "month": "08"
+
+    },
+    {
+      "names": "Bērtulis Boļeslavs",
+      "noncalendarnames": "Bartolomejs Bārtulis Bertolds Bertrams Bierants Boļeslava Rorijs Rosma Rostislavs Varfolomejs",
+      "day": "24",
+      "month": "08"
+
+    },
+    {
+      "names": "Ludvigs Ludis Ivonna Patrīcija",
+      "noncalendarnames": "Ivona Ivonda Ivonija Lūdolfs Ludovika Ludoviks Ludviga Ludvika Ludviķis Ludviks Ludvisa Ludvise Ļudvise Ludvisija Luijs Luiss Patricija Patricijs Patriks",
+      "day": "25",
+      "month": "08"
+
+    },
+    {
+      "names": "Natālija Tālija Broņislava Broņislavs",
+      "noncalendarnames": "Broņa Bronija Bronis Bronislava Bronislavs Nata Natalī Natalija Nataļja Natalja Nate Natela Natella Neta Talija Talita Tihons",
+      "day": "26",
+      "month": "08"
+
+    },
+    {
+      "names": "Žanis Jorens Alens",
+      "noncalendarnames": "Alans Alēns Allans Allens Alons Džo Džonatans Džonijs Džonis Džons Huans Ivans Janeks Janis Janošs Jāns Janušs Joans Johans Jonatāns Jonijs Jons Jorēns Juhans Žanno Žano Žans",
+      "day": "27",
+      "month": "08"
+
+    },
+    {
+      "names": "Auguste Guste",
+      "noncalendarnames": "Augusta Augustīna Augustīne Gusta Rovena Rovēna Rovens Ruāna",
+      "day": "28",
+      "month": "08"
+
+    },
+    {
+      "names": "Armīns Vismants Aiga",
+      "noncalendarnames": "Aigija Aigijs Aigis Aigita Aigo Aigula Armanis Armans Armens Armīda Armīds Armilda Armins Armis Rubens Rufina Visija Viskants Visma Vismands",
+      "day": "29",
+      "month": "08"
+
+    },
+    {
+      "names": "Alvis Jolanta Samanta",
+      "noncalendarnames": "Alvija Alvijs Alvika Alvita Alvits Jalanta Jolanda Jolands Jolants Jolita Ruslana Ruslands Ruslāns",
+      "day": "30",
+      "month": "08"
+
+    },
+    {
+      "names": "Vilma Aigars",
+      "noncalendarnames": "Aigvars Saksija Valīda Valisa Valita Vallida Valma",
+      "day": "31",
+      "month": "08"
+
+    },
+    {
+      "names": "Ilmārs Iluta Austrums",
+      "noncalendarnames": "Hilmārs Ilmara Ilmars Salda",
+      "day": "01",
+      "month": "09"
+
+    },
+    {
+      "names": "Elīza Lizete Zete",
+      "noncalendarnames": "Elīsa Elise Elīss Eliza Elize Lizabete Lizbete Lizelote Lizeta Līzete Sančo Savina Savita Uzbete Zeta Zetiņa",
+      "day": "02",
+      "month": "09"
+
+    },
+    {
+      "names": "Berta Bella",
+      "noncalendarnames": "Belinda Berts Sangrita Sangvids Sanlija Sedriks Serafima Serafims Serafina",
+      "day": "03",
+      "month": "09"
+
+    },
+    {
+      "names": "Dzintra Dzintars Dzintara",
+      "noncalendarnames": "Dimants Dzintāra Dzintārija Dzintārs Dzintris Ģintars Gintārs Gintauts Zintars Zintra",
+      "day": "04",
+      "month": "09"
+
+    },
+    {
+      "names": "Klaudija Persijs Vaida",
+      "noncalendarnames": "Klavdija Pērs Vaidelotis Vaidis",
+      "day": "05",
+      "month": "09"
+
+    },
+    {
+      "names": "Maigonis Magnuss Mariuss",
+      "noncalendarnames": "Magnolija Magnus Maigons Marjus Maro",
+      "day": "06",
+      "month": "09"
+
+    },
+    {
+      "names": "Regīna Ermīns",
+      "noncalendarnames": "Erma Ermīna Ermīne Ermionija Ermonija Regija Regina Reģīna Regīns Regita Rego Selēna Sēlija Selīna Selita Senora Serena Serlana",
+      "day": "07",
+      "month": "09"
+
+    },
+    {
+      "names": "Ilga",
+      "noncalendarnames": "Ilgards Ilgārs Ilgarts Ilgnese Siandra Sianta Siāra Slanda",
+      "day": "08",
+      "month": "09"
+
+    },
+    {
+      "names": "Bruno Telma",
+      "noncalendarnames": "Bronhilda Brunhilda Brunhilde Brunis Brunita Brunons Brūss Sidija Sidnejs Sidnija Sidonija Teldijs Telesfors Zidija Zidonija",
+      "day": "09",
+      "month": "09"
+
+    },
+    {
+      "names": "Jausma Albertīne",
+      "noncalendarnames": "Albertīna Albertine Sigma Sijanda Zigma",
+      "day": "10",
+      "month": "09"
+
+    },
+    {
+      "names": "Signe Signija",
+      "noncalendarnames": "Siglinda Siglinde Signa Signeja Signejana Signese Signeta Signijs Signis Signita Zigna Zigne",
+      "day": "11",
+      "month": "09"
+
+    },
+    {
+      "names": "Erna Evita Eva",
+      "noncalendarnames": "Ernita Ēva Eve Evelita Evī Ēvī Silards Sinatra",
+      "day": "12",
+      "month": "09"
+
+    },
+    {
+      "names": "Iza Izabella",
+      "noncalendarnames": "Genādijs Gennādijs Izabela Singa Singita Singrita Singūna Singurs",
+      "day": "13",
+      "month": "09"
+
+    },
+    {
+      "names": "Sanita Sanija Santa Sanda",
+      "noncalendarnames": "Marfa Sana Sandija Sandita Saneta Sanijs Sannija Santana Santija Senda Sendija Senija",
+      "day": "14",
+      "month": "09"
+
+    },
+    {
+      "names": "Sandra Sondra Gunvaldis Gunvaris",
+      "noncalendarnames": "Gunivaldis Gunivalds Gunvalds Gunvars Sandrīte Santra Sendra Sondars Sondris Zandra",
+      "day": "15",
+      "month": "09"
+
+    },
+    {
+      "names": "Asja Asnete Dāgs Dārgs",
+      "noncalendarnames": "Anfims Asija Asnāte Dags Domna Sirdsvalda Sirdsvaldis Sirdvalda",
+      "day": "16",
+      "month": "09"
+
+    },
+    {
+      "names": "Vera Vaira Vairis",
+      "noncalendarnames": "Aila Ailands Ailenda Aili Ailija Ailita Sīringa Sirje Sivija Vaila Vaileta Vairita Vairīte Vaironis Vairons Vaiva Vaivars Vēra Verēna Verena Verija Virēna",
+      "day": "17",
+      "month": "09"
+
+    },
+    {
+      "names": "Liesma Elita Alita",
+      "noncalendarnames": "Elite Eralds Mefodijs Metodijs Skara Skārleta Skaudris",
+      "day": "18",
+      "month": "09"
+
+    },
+    {
+      "names": "Verners Muntis",
+      "noncalendarnames": "Munise Sorenta Spārīte Spartaks Spēkonis Vernis Vernons Veronis",
+      "day": "19",
+      "month": "09"
+
+    },
+    {
+      "names": "Guntra Marianna Ginters",
+      "noncalendarnames": "Mariana Marians Mariela Marijana Marijanna Marijans Maritana Marjana Marjanna Marjans Staldzis",
+      "day": "20",
+      "month": "09"
+
+    },
+    {
+      "names": "Modris Matīss Mariss",
+      "noncalendarnames": "Mārijs Mario Mariona Marisa Mateass Matejs Mateuss Mateušs Matiass Matis Matvejs Maurīcijs Metjū Modrinš",
+      "day": "21",
+      "month": "09"
+
+    },
+    {
+      "names": "Māris Mārica Maigurs",
+      "noncalendarnames": "Maris Morics Moriss Steinārs Stenlijs",
+      "day": "22",
+      "month": "09"
+
+    },
+    {
+      "names": "Vanda Veneranda Venija",
+      "noncalendarnames": "Vandze Vaneranda Vanesa Vanese Venefrīda Venēra Venera Venerande Veners Venīna Veniranda",
+      "day": "23",
+      "month": "09"
+
+    },
+    {
+      "names": "Agris Agrita",
+      "noncalendarnames": "Agrits Agrons Steidzīte Steiga",
+      "day": "24",
+      "month": "09"
+
+    },
+    {
+      "names": "Rodrigo Rauls",
+      "noncalendarnames": "Raulis Sulamīte Svanhilda",
+      "day": "25",
+      "month": "09"
+
+    },
+    {
+      "names": "Gundars Kurts Knuts",
+      "noncalendarnames": "Gundaris Gundolfs Gundra Ņikita Nikita Šeila Šeila Šeilija Šelda Šellija",
+      "day": "26",
+      "month": "09"
+
+    },
+    {
+      "names": "Ādolfs Ilgonis",
+      "noncalendarnames": "Ado Ādolfina Ādolfīne Adonija Adonis Adoniss Delfīna Delfīne Ilgons Širiija Širleja",
+      "day": "27",
+      "month": "09"
+
+    },
+    {
+      "names": "Sergejs Svetlana Lana",
+      "noncalendarnames": "Lāna Sergo Seržs Sveta Svetoslavs Svjatoslavs Vaclava Vaclavs Večella Večeslavs Večislavs Venceslavs Venčeslavs Vencislava Vencislavs Vinca Vinceslavs Vincs Vjačeslavs Vmcis",
+      "day": "28",
+      "month": "09"
+
+    },
+    {
+      "names": "Miķelis Mikus Mihails Miks",
+      "noncalendarnames": "Jumis Maikls Maiks Mihaels Mihailina Mihaļina Mihalīna Mikaela Mikaels Mikalina Miķēlis Mišela Mišels",
+      "day": "29",
+      "month": "09"
+
+    },
+    {
+      "names": "Elma Elna Menarda",
+      "noncalendarnames": "Elmija Elmīna Elmīne Elnāra Elneta Elnurs Geronima Geronīms Heronima Heronīms Hieronims Jeronīms Ļubova Medards Medarts Medeja Meinards Meinhards Mendija",
+      "day": "30",
+      "month": "09"
+
+    },
+    {
+      "names": "Zanda Zandis Lāsma",
+      "noncalendarnames": "Lāse Lasma Lāsmiņa",
+      "day": "01",
+      "month": "10"
+
+    },
+    {
+      "names": "Ilma Skaidris",
+      "noncalendarnames": "Hilma Ilme Ilmija Ilna Terijs Tesa Tilla Tillija Tils",
+      "day": "02",
+      "month": "10"
+
+    },
+    {
+      "names": "Elza Ilizana",
+      "noncalendarnames": "Ilizane Tira Tits Tobijs",
+      "day": "03",
+      "month": "10"
+
+    },
+    {
+      "names": "Modra Francis",
+      "noncalendarnames": "Dimārs Dimitrijs Ditmārs Dmitrijs Ferencs Francs Franeks Franks Fransuāza Franuse Frenks Frensisa Prans Tora Toralfs Torolfs Tors Torvalds Tūrs",
+      "day": "04",
+      "month": "10"
+
+    },
+    {
+      "names": "Amālija",
+      "noncalendarnames": "Amelija Amēlija Amelita Rostams Rustams Rusudana Saida Saīds Samīra Samirs Sevda Tagils Tahirs Tahmina Timurs Ulams Vagifs Vahtangs Zemfira Zemīra",
+      "day": "05",
+      "month": "10"
+
+    },
+    {
+      "names": "Monika Zilgma Zilga",
+      "noncalendarnames": "Mona Monija Monna Treisija Treviss Zilgars Zilgme",
+      "day": "06",
+      "month": "10"
+
+    },
+    {
+      "names": "Daumants Druvvaldis",
+      "noncalendarnames": "Augmants Daumands Druvaldis Druvalds Druvinalds Druvvalds Tullija Turaida Turaids Tusnelda",
+      "day": "07",
+      "month": "10"
+
+    },
+    {
+      "names": "Aina Anete",
+      "noncalendarnames": "Ainita Aino Ane Aneka Aneļa Anēla Anela Anēle Anēlija Anelija Anese Aneta Anneta Annete Udo",
+      "day": "08",
+      "month": "10"
+
+    },
+    {
+      "names": "Elga Helga Elgars",
+      "noncalendarnames": "Elgasts Elgita Elgons Helge Helgi Helgrīda",
+      "day": "09",
+      "month": "10"
+
+    },
+    {
+      "names": "Arvīds Arvis Druvis",
+      "noncalendarnames": "Arveds Arvēds Arvīda Arvīde Arvids Arvita Arvo Druvārs",
+      "day": "10",
+      "month": "10"
+
+    },
+    {
+      "names": "Monta Tince Silva",
+      "noncalendarnames": "Haritons Hartvigs Monda Montis Monts Silvana Silvars Silvers Silveta Silvita Zilva",
+      "day": "11",
+      "month": "10"
+
+    },
+    {
+      "names": "Valfrīds Kira",
+      "noncalendarnames": "Cirēnija Valfrīda Alfreds Alfrēds Alfrids",
+      "day": "12",
+      "month": "10"
+
+    },
+    {
+      "names": "Irma Mirga",
+      "noncalendarnames": "Irmants Irme Irmiņa Irmīna Irmīne Mira Mirabella Miralda Miranda Miroslava Miroslavs",
+      "day": "13",
+      "month": "10"
+
+    },
+    {
+      "names": "Vilhelmīne Minna",
+      "noncalendarnames": "Mīce Mina Mindora Vilhelma Vilhelmīna Vilhelmine",
+      "day": "14",
+      "month": "10"
+
+    },
+    {
+      "names": "Eda Hedviga Helvijs",
+      "noncalendarnames": "Ede Edviga Heda Hedija Hedijs Hedvigs Helvi Helvigs Helvija Helvis Helvita",
+      "day": "15",
+      "month": "10"
+
+    },
+    {
+      "names": "Daiga Dinija",
+      "noncalendarnames": "Daidze Daiens Daigars Daigone Daigonis Daija Dināra Dinards Dinārs Dineta Dinijs Dinnija",
+      "day": "16",
+      "month": "10"
+
+    },
+    {
+      "names": "Gaits Karīna",
+      "noncalendarnames": "Gaita Gaitis Karena Karens Kārija Kārina Karinē Karīne Karita",
+      "day": "17",
+      "month": "10"
+
+    },
+    {
+      "names": "Rolands Rolanda Ronalds Erlends",
+      "noncalendarnames": "Eriands Eriens Lūkass Railands Rolande Rolāns Rolanta Rona Ronalda Ronaldo Ronijs Ronta Ronvalds",
+      "day": "18",
+      "month": "10"
+
+    },
+    {
+      "names": "Elīna Drosma Drosmis",
+      "noncalendarnames": "Drosme Drosmiņš Drošvaldis Drošvaris Elika Elina Elīne Elīns",
+      "day": "19",
+      "month": "10"
+
+    },
+    {
+      "names": "Leonīds Leonīda",
+      "noncalendarnames": "Leonida Leonide Leonids Leonita Pelageja",
+      "day": "20",
+      "month": "10"
+
+    },
+    {
+      "names": "Urzula Severīns",
+      "noncalendarnames": "Severīna Severins Severjans Taīda Taisa Taisija Ursula Uršula Uršule",
+      "day": "21",
+      "month": "10"
+
+    },
+    {
+      "names": "Airisa Īrisa Irīda",
+      "noncalendarnames": "Arisa Iraisa Irida Irisa",
+      "day": "22",
+      "month": "10"
+
+    },
+    {
+      "names": "Daina Dainis Dainida",
+      "noncalendarnames": "Daimona Daimonds Daimons Dainārs Dainarts Dainita Dainīte Dainors Deimonds Deimons Jevlampija",
+      "day": "23",
+      "month": "10"
+
+    },
+    {
+      "names": "Renāte Modrīte Mudrīte",
+      "noncalendarnames": "Mudra Mudris Rana Ranāte Raneta Ranita Ranta Rena Rēna Renāta Renate Reneta Renija Renijs Renita Renta Rineta Rinete",
+      "day": "24",
+      "month": "10"
+
+    },
+    {
+      "names": "Beāte Beatrise",
+      "noncalendarnames": "Beāta Beate Beatrisa Gilarijs Hilards Hilarija Hilārijs Hilārs",
+      "day": "25",
+      "month": "10"
+
+    },
+    {
+      "names": "Amanda Amanta Kaiva",
+      "noncalendarnames": "Amandis Amands Amantija Amaranda Amaranta Amarilla Amenta Azanda Azella Kaivis",
+      "day": "26",
+      "month": "10"
+
+    },
+    {
+      "names": "Lilita Irita Ita",
+      "noncalendarnames": "Itārs Itija Itvars Lillita Praskovja Proskovja",
+      "day": "27",
+      "month": "10"
+
+    },
+    {
+      "names": "Ņina Ninona Antoņina Oksana",
+      "noncalendarnames": "Antonīna Nīna Ņīna Ninele Ninella Nineta Oksāna",
+      "day": "28",
+      "month": "10"
+
+    },
+    {
+      "names": "Laimonis Laimis Elvijs Elva Elvis",
+      "noncalendarnames": "Elvars Elvi Elviga Elvigs Elvija Elvisa Elviss Elvo Laimonds Laimons Laimonts Laimutis Laimzieds",
+      "day": "29",
+      "month": "10"
+
+    },
+    {
+      "names": "Nadlīna Adīna Ulla",
+      "noncalendarnames": "Adīna Adīne Eila Nadežda Nadija Nadina Nadīne Ulda Uldze Ulita Uljana Uļjana Uljans Uļjans Ullija",
+      "day": "30",
+      "month": "10"
+
+    },
+    {
+      "names": "Valts Rinalds Rinalda",
+      "noncalendarnames": "Rainis Rainolds Rina Rinaldo Rinalts Vaits Valta Valtis",
+      "day": "31",
+      "month": "10"
+
+    },
+    {
+      "names": "Ikars",
+      "noncalendarnames": "Ihtiandrs Ildefons Ildra Iraklijs Tautmīlis Tautvaldis Tautvaris Ungars",
+      "day": "01",
+      "month": "11"
+
+    },
+    {
+      "names": "Vivita Viva Dzīle",
+      "noncalendarnames": "Dzilvars Venda Vendeta Vendija Vendijs Vivanta Vivanto Viveja Viveta Vivija Vivina",
+      "day": "02",
+      "month": "11"
+
+    },
+    {
+      "names": "Ērika Dagnija",
+      "noncalendarnames": "Era Ēra Erena Erēna Erika Hūberts Valve",
+      "day": "03",
+      "month": "11"
+
+    },
+    {
+      "names": "Atis Otomārs Oto",
+      "noncalendarnames": "Ata Otis Otomars Vega Vegita",
+      "day": "04",
+      "month": "11"
+
+    },
+    {
+      "names": "Šarlote Lote",
+      "noncalendarnames": "Late Lato Lota Šarlota Veidols Veikla Veiksma Veimārs",
+      "day": "05",
+      "month": "11"
+
+    },
+    {
+      "names": "Linards Leons Leo Leonards",
+      "noncalendarnames": "Lenards Lenārs Lenarts Leona Leonāra Leonarda Leonardo Leonārija Leonārs Leone Leonhards Leonija Leonila Leonilla Ļevs Linarda Linārs Linarts Linerts Lonards Lonarts",
+      "day": "06",
+      "month": "11"
+
+    },
+    {
+      "names": "Helma Lotārs",
+      "noncalendarnames": "Helmī Helmija Helmīna Helmīne Lotars Pērie Vena Vēna Venancijs Venantijs Veno",
+      "day": "07",
+      "month": "11"
+
+    },
+    {
+      "names": "Aleksandra Agra",
+      "noncalendarnames": "Agnda Agreda Agrida Agrija Agrina Agrīte Aleksa Aleksandrīna Aleksandrine",
+      "day": "08",
+      "month": "11"
+
+    },
+    {
+      "names": "Teodors",
+      "noncalendarnames": "Fedors Fedots Feodora Feodors Feodosija Fjodors Tea Teo Teobalds Teodora Teofīla Teofile Teofīlija Teofils Teovils",
+      "day": "09",
+      "month": "11"
+
+    },
+    {
+      "names": "Mārtiņš Mārcis Markuss",
+      "noncalendarnames": "Marcela Marčela Marcelina Marcella Marciana Marcianna Marčija Marcijana Marcijanna Marcis Marko Marks Markus Martins Martiņs",
+      "day": "10",
+      "month": "11"
+
+    },
+    {
+      "names": "Ojārs Nellija Rainers",
+      "noncalendarnames": "Lāčplēsis Neļa Nelija Nelima Nelita Nella Neonila Neonilla Rainars Reimārs",
+      "day": "11",
+      "month": "11"
+
+    },
+    {
+      "names": "Kaija Kornēlija",
+      "noncalendarnames": "Kaira Kajs Komēlijs Kornelija Kornelijs Veta Viāna Vianta Vidards Vidars Vidarts Zinovija Zinovijs",
+      "day": "12",
+      "month": "11"
+
+    },
+    {
+      "names": "Eižens Jevgeņijs Jevgeņija",
+      "noncalendarnames": "Augenija Eiženijs Euģenijs Euģēnijs Eugenijs Eugēnijs Evgēnijs Evgenijs Evģēnijs Evģenijs Jevģenija Jevģēnija Jevgēnija Jevgenija Jevgeņija Jevgēnijs Jevgeņijs Jevgenijs Jevģēnijs Jevģenijs Jevženija Jevžēnija",
+      "day": "13",
+      "month": "11"
+
+    },
+    {
+      "names": "Fricis Vikentijs",
+      "noncalendarnames": "Frederika Frederiks Friderika Frideriks Fridriha Frīdrihs Minadora Spricis Vicenta Vicents Vikars Vincens Vincenta Vincentijs Vincentīna Vincentīne Vincents Vinsents",
+      "day": "14",
+      "month": "11"
+
+    },
+    {
+      "names": "Leopolds Undīne Unda",
+      "noncalendarnames": "Leopoldina Undalgs Undija Undīna Undis Undita",
+      "day": "15",
+      "month": "11"
+
+    },
+    {
+      "names": "Banga Glorija",
+      "noncalendarnames": "Ganda Jefimija Jefims Landa Landijs Vētra",
+      "day": "16",
+      "month": "11"
+
+    },
+    {
+      "names": "Hugo Uga Uģis",
+      "noncalendarnames": "Higo Igo Ugo",
+      "day": "17",
+      "month": "11"
+
+    },
+    {
+      "names": "Aleksandrs Doloresa",
+      "noncalendarnames": "Aleksandris Alesandrs Brīva Brīve Brīvīte Dolita Dollija Laisve Latvis Latvīte Zandars Zanders",
+      "day": "18",
+      "month": "11"
+
+    },
+    {
+      "names": "Elizabete Liza Līze Betija",
+      "noncalendarnames": "Alžbeta Beta Betsija Eba Elīzabeta Elīzabete Elizaveta Elizavete Elizbete Elzabeta Elžbeta Jeļizabeta Jelizabeta Jelizaveta Jeļizaveta Jelizavete Jeļizavete Lisa Lisija Līza Lize Līziņa",
+      "day": "19",
+      "month": "11"
+
+    },
+    {
+      "names": "Anda Andīna",
+      "noncalendarnames": "Andija Andina Andīne Nanda Vīga Vīgants Vigars Vigda Vigelijs Vigeta Vigija Viģīlija Vigilija Vigilijs Vigita Vīgo",
+      "day": "20",
+      "month": "11"
+
+    },
+    {
+      "names": "Zeltīte Andis",
+      "noncalendarnames": "Andars Andejs Andijs Ando Vigors Vigorts Vigra Vigurds Vilfrida Vilfrīds Vilibalds Viliberts Zelta Zeltiņa Zlata",
+      "day": "21",
+      "month": "11"
+
+    },
+    {
+      "names": "Aldis Alfons Aldris",
+      "noncalendarnames": "Airida Aldijs Aldra Alfins Alfonija Alfonss Vilonija Vilora",
+      "day": "22",
+      "month": "11"
+
+    },
+    {
+      "names": "Zigrīda Zigfrīda Zigrīds",
+      "noncalendarnames": "Sigrīda Sigrija Sigrūna Ziga Zigda Zigfrida Zigra Zigrida Zigrids Zigrita",
+      "day": "23",
+      "month": "11"
+
+    },
+    {
+      "names": "Velta Velda",
+      "noncalendarnames": "Velards Veldra Velita Velte Veltija Vīna Vinārs Vīne Viners",
+      "day": "24",
+      "month": "11"
+
+    },
+    {
+      "names": "Katrīna Kate Kadrija Trīne",
+      "noncalendarnames": "Jekaterīna Katalīna Katarīna Katažina Katerīna Katija Katiņa Katra Katre Katri Katrina Katrīne Katriona Kecija Keita Keitija Keta Kēta Kete Kēte Ketija Ketrija Ketrīna Trīna",
+      "day": "25",
+      "month": "11"
+
+    },
+    {
+      "names": "Konrāds Sebastians",
+      "noncalendarnames": "Kondrāts Konrads Konrands Konrāts Manefa Sebastjans Vingra",
+      "day": "26",
+      "month": "11"
+
+    },
+    {
+      "names": "Lauris Norberts",
+      "noncalendarnames": "Laurijs Nords Vinifreda Vinifreds Vinija Vinnija Vinolds",
+      "day": "27",
+      "month": "11"
+
+    },
+    {
+      "names": "Rita Vita Olita",
+      "noncalendarnames": "Olija Olina Olis Ollija Ritija Vinta Vintārs Vintra Vints Vitija",
+      "day": "28",
+      "month": "11"
+
+    },
+    {
+      "names": "Ignats Virgīnija",
+      "noncalendarnames": "Aimo Ignātijs Ignāts Vergenija Virdžinija Virga Virgenija Virgilijs Virgīna Virgīne Virginija Virģīnija Virginijs",
+      "day": "29",
+      "month": "11"
+
+    },
+    {
+      "names": "Andrejs Andris Andrievs",
+      "noncalendarnames": "Anders Anderss Andreass Andrejans Andrējs Andress Andriāns Andrijans Andrijs Androns Andrs Andrus Andruss Endrijs",
+      "day": "30",
+      "month": "11"
+
+    },
+    {
+      "names": "Arnolds Emanuels",
+      "noncalendarnames": "Arnotijs Arnulfs Emanuēla Emanuils Emmanuels Imanuels Manuela Noldis",
+      "day": "01",
+      "month": "12"
+
+    },
+    {
+      "names": "Meta Sniedze",
+      "noncalendarnames": "Mēta Snežana Sņežana Sņežanna Snežanna Sniedzīte Sniga Voicehs Voiceks Voicihs Voiciks Voičiks Voitiks",
+      "day": "02",
+      "month": "12"
+
+    },
+    {
+      "names": "Evija Raita Jogita Volfgangs",
+      "noncalendarnames": "Akims Ako Džovita Ēvija Evijs Evika Evisa Ēvisa Jakims Joahims Joakims Jovars Jovita Jugita Jukums Volfgangs Volfreds Volfrīds Volfs",
+      "day": "03",
+      "month": "12"
+
+    },
+    {
+      "names": "Baiba Barbara Barba",
+      "noncalendarnames": "Varvara Vsevolods Vudis Vudro",
+      "day": "04",
+      "month": "12"
+
+    },
+    {
+      "names": "Sabīne Sarma Klaudijs",
+      "noncalendarnames": "Sabīna Sabine Sabrīna Sarme Zabīne Zanga Zanza",
+      "day": "05",
+      "month": "12"
+
+    },
+    {
+      "names": "Nikolajs Niklāvs Niks",
+      "noncalendarnames": "Meikols Meikulis Meikuls Nika Nikandrs Nikija Nikijs Niklāss Niklavs Niko Nikola Nikolass Nikoleta",
+      "day": "06",
+      "month": "12"
+
+    },
+    {
+      "names": "Antonija Anta Dzirkstīte",
+      "noncalendarnames": "Antainna Antija Antonela Antonīda Antuaneta Antuanete Toņa Tone Tonija Tonita Zbigņevs Zdeneks",
+      "day": "07",
+      "month": "12"
+
+    },
+    {
+      "names": "Gunārs Vladimirs Gunis",
+      "noncalendarnames": "Gināra Ginārs Gunāra Gunards Gunars Gunarts Gunnars Guno Vladilena Vladilens Vladimira Vladis Vladlena Vladlens Vlads",
+      "day": "08",
+      "month": "12"
+
+    },
+    {
+      "names": "Sarmīte Tabita",
+      "noncalendarnames": "Sārtīte Tabite Zenobija Zenona Zenons",
+      "day": "09",
+      "month": "12"
+
+    },
+    {
+      "names": "Guna Judīte",
+      "noncalendarnames": "Džudīte Gunefa Nevils Zēra",
+      "day": "10",
+      "month": "12"
+
+    },
+    {
+      "names": "Voldemārs Valdemārs Valdis",
+      "noncalendarnames": "Valdeko Valdeks Valdemars Valdimārts Valdimirs Valdmiers Valdona Valdone Valdonis Valdons Valds Vivaldis Voldemars Voldis Voldmārs Volmārs Vulmārs",
+      "day": "11",
+      "month": "12"
+
+    },
+    {
+      "names": "Otīlija Iveta",
+      "noncalendarnames": "Atala Atāls Igeta Igila Igita Iverta Iverts Ivete Odeta Odita Ofēlija Otālija Otilija Zezostris",
+      "day": "12",
+      "month": "12"
+
+    },
+    {
+      "names": "Lūcija Veldze",
+      "noncalendarnames": "Lucianna Luciāns Lucija Lucijana Lucijāns Lusija Veldza",
+      "day": "13",
+      "month": "12"
+
+    },
+    {
+      "names": "Auseklis Gaisma",
+      "noncalendarnames": "Gaismīte Gaismone Gaismonis Gaismons Illuminata",
+      "day": "14",
+      "month": "12"
+
+    },
+    {
+      "names": "Jana Johanna Hanna",
+      "noncalendarnames": "Hanelita Hannelore Hannija Jāna Janeka Janika Janna Joana Joanna Johana Jonita Juanna Junna Žuanete",
+      "day": "15",
+      "month": "12"
+
+    },
+    {
+      "names": "Alvīne",
+      "noncalendarnames": "Alvīna Alvine Alvinija Alvīns Zira Zola Zolija",
+      "day": "16",
+      "month": "12"
+
+    },
+    {
+      "names": "Hilda Teiksma",
+      "noncalendarnames": "Borghilde Dziesma Hildegarde Hildura Hilga Hilja Ilda Ildars",
+      "day": "17",
+      "month": "12"
+
+    },
+    {
+      "names": "Kristaps Krists Klinta Kristofers",
+      "noncalendarnames": "Kristafors Kristars Kristens Kristers Kristo Kristofors Kristofs",
+      "day": "18",
+      "month": "12"
+
+    },
+    {
+      "names": "Lelde Sarmis",
+      "noncalendarnames": "Alena Alēna Alereins Lelda",
+      "day": "19",
+      "month": "12"
+
+    },
+    {
+      "names": "Arta Minjona",
+      "noncalendarnames": "Artemida Artemijs Artēmijs Artija Artjoms Vitnija",
+      "day": "20",
+      "month": "12"
+
+    },
+    {
+      "names": "Toms Tomass Saulcerīte",
+      "noncalendarnames": "Saulceris Saulgaida Saulgaitis Tomašs Tomijs Tumašs",
+      "day": "21",
+      "month": "12"
+
+    },
+    {
+      "names": "Saulvedis",
+      "noncalendarnames": "Saule Saulīte Saulstarīte Saulstars Saulvija",
+      "day": "22",
+      "month": "12"
+
+    },
+    {
+      "names": "Viktorija Balva",
+      "noncalendarnames": "Vika Vikija Viktora Viktorina",
+      "day": "23",
+      "month": "12"
+
+    },
+    {
+      "names": "Ādams Ieva",
+      "noncalendarnames": "Ieviņa Odums",
+      "day": "24",
+      "month": "12"
+
+    },
+    {
+      "names": "Stella Larisa",
+      "noncalendarnames": "Estella Zvaigznīte",
+      "day": "25",
+      "month": "12"
+
+    },
+    {
+      "names": "Dainuvīte Gija Megija",
+      "noncalendarnames": "Dainavīte Gijs Mega",
+      "day": "26",
+      "month": "12"
+
+    },
+    {
+      "names": "Elmārs Inita",
+      "noncalendarnames": "Elmāra Elmars Helmārs Initra",
+      "day": "27",
+      "month": "12"
+
+    },
+    {
+      "names": "Inga Ivita Irvita Ingeborga",
+      "noncalendarnames": "Inge Ingerūda Ingeta Ingita Ingo Irvalds Irvings Irvīns",
+      "day": "28",
+      "month": "12"
+
+    },
+    {
+      "names": "Solveiga Ilgona",
+      "noncalendarnames": "Invalds Invars Inveiga Solanža Solvega Solvēga",
+      "day": "29",
+      "month": "12"
+
+    },
+    {
+      "names": "Dāvids Dāvis Dāniels Daniela",
+      "noncalendarnames": "Dāniela Daniēla Daniella Daniēls Daniels Daniils Daņiils Daņila Daņils Danils Dato Dāvīds Dāvs Deivids Deivija Deivijs Deivis Deivs Deniels Dēvids Dēvija Dēvijs",
+      "day": "30",
+      "month": "12"
+
+    },
+    {
+      "names": "Silvestrs Silvis Kalvis",
+      "noncalendarnames": "Silvesters Silvestra Silvestris",
+      "day": "31",
+      "month": "12"
+
+    }
+  ]
+}
