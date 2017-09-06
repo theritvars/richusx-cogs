@@ -23,7 +23,7 @@ class NoMore:
         if ctx.invoked_subcommand is None:
             await self.bot.say("Type `%shelp nomore` for more info" % (ctx.prefix))
 
-    @checks.mod_or_permissions(manage_messages=True)
+    @checks.admin_or_permissions(administrator=True)
     @nomore.command(name="add", pass_context=True)
     async def add(self, ctx, usr: int = None):
         '''Add user to blacklist'''
@@ -35,7 +35,7 @@ class NoMore:
         except Exception as e:
             await self.bot.say(e)
 
-    @checks.mod_or_permissions(manage_messages=True)
+    @checks.admin_or_permissions(administrator=True)
     @nomore.command(name="remove", pass_context=True)
     async def remove(self, ctx, usr: int = None):
         '''Remove user from blacklist'''
@@ -77,12 +77,14 @@ class NoMore:
                     for extension in ext:
                         if extension in url: # Delete image attachments
                             await self.bot.delete_message(msg)
+                            await self.bot.send_message(msg.channel, "¯\_(ツ)_/¯")
                 else:
                     re_urls = re.findall(r'(https?://\S+)', msg.content) # look for urls in message
                     if re_urls:
                         for link in re_urls:
                             if "gifv" in link: # Since gifv's content-type is 'html/text', it gets special treatment
                                 await self.bot.delete_message(msg)
+                                await self.bot.send_message(msg.channel, "¯\_(ツ)_/¯")
                                 break
                             try: # if invalid url then skip this iteration (no point in checking if the url is invalid)
                                 response = requests.head(link)
@@ -91,6 +93,7 @@ class NoMore:
                             url_type = response.headers.get('content-type')
                             if "image" in url_type or "video" in url_type:
                                 await self.bot.delete_message(msg)
+                                await self.bot.send_message(msg.channel, "¯\_(ツ)_/¯")
                                 break
 
 def check_folder():
