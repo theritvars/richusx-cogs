@@ -7,14 +7,13 @@ from .utils import checks
 import requests
 import re
 
-path = os.path.dirname(os.path.realpath(__file__))
 ext = ['jpg', 'png', 'gif', 'gifv', 'mp4', 'svg', 'bmp']
 
 class NoMore:
     '''Prevents blacklisted users from posting images'''
 
     def __init__(self, bot):
-        self.blacklist = json.loads(open("%s/blacklist.json" % (path)).read())
+        self.blacklist = json.loads(open("data/nomore/blacklist.json").read())
         self.bot = bot
 
     @commands.group(pass_context=True)
@@ -24,7 +23,6 @@ class NoMore:
         if ctx.invoked_subcommand is None:
             await self.bot.say("Type `%shelp nomore` for more info" % (ctx.prefix))
 
-
     @checks.admin_or_permissions(administrator=True)
     @nomore.command(name="add", pass_context=True)
     async def add(self, ctx, usr: int = None):
@@ -32,7 +30,7 @@ class NoMore:
         try:
             username = await self.bot.get_user_info(usr)
             self.blacklist["blacklist"].append(int(usr))
-            json.dump(self.blacklist, (open("%s/blacklist.json" % (path), 'w')))
+            json.dump(self.blacklist, (open("data/nomore/blacklist.json"), 'w')))
             await self.bot.say('`%s` added to blacklist' % (username))
         except Exception as e:
             await self.bot.say(e)
@@ -45,7 +43,7 @@ class NoMore:
             if int(usr) in self.blacklist["blacklist"]:
                 username = await self.bot.get_user_info(usr)
                 self.blacklist["blacklist"].remove(usr)
-                json.dump(self.blacklist, (open("%s/blacklist.json" % (path), 'w')))
+                json.dump(self.blacklist, (open("data/nomore/blacklist.json", 'w')))
                 await self.bot.say('`%s` removed from blacklist' % (username))
         except Exception as e:
             await self.bot.say(e)
@@ -59,7 +57,6 @@ class NoMore:
             username = await self.bot.get_user_info(user)
             message.append("%s\n" % (username))
         await self.bot.say("Blacklisted users:\n```%s```" % (''.join(message)))
-
 
     async def on_message(self, msg):
         check_url = False
@@ -93,12 +90,18 @@ class NoMore:
                                 await self.bot.delete_message(msg)
                                 break
 
+def check_folder():
+    if not os.path.exists('data/nomore'):
+        print('Creating nomore folder...')
+        os.makedirs('data/nomore')
+
 def check_blacklist_file():
     contents = {'blacklist': []}
-    if not os.path.exists("%s/blacklist.json" % (path)):
+    if not os.path.exists("data/nomore/blacklist.json"):
         print('Creating empty blacklist.json...')
-        json.dump(contents, (open("%s/blacklist.json" % (path), 'w')))
+        json.dump(contents, (open("data/nomore/blacklist.json", 'w')))
 
 def setup(bot):
+    check_folder()
     check_blacklist_file()
     bot.add_cog(NoMore(bot))
