@@ -56,7 +56,10 @@ class NoMore:
         for user in self.blacklist["blacklist"]:
             username = await self.bot.get_user_info(user)
             message.append("%s\n" % (username))
-        await self.bot.say("Blacklisted users:\n```%s```" % (''.join(message)))
+        if message:
+            await self.bot.say("Blacklisted users:\n```%s```" % (''.join(message)))
+        else:
+            await self.bot.say("`Blacklist is empty!`")
 
     async def on_message(self, msg):
         check_url = False
