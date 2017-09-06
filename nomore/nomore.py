@@ -23,7 +23,7 @@ class NoMore:
         if ctx.invoked_subcommand is None:
             await self.bot.say("Type `%shelp nomore` for more info" % (ctx.prefix))
 
-    @checks.admin_or_permissions(administrator=True)
+    @checks.mod_or_permissions(manage_messages=True)
     @nomore.command(name="add", pass_context=True)
     async def add(self, ctx, usr: int = None):
         '''Add user to blacklist'''
@@ -35,7 +35,7 @@ class NoMore:
         except Exception as e:
             await self.bot.say(e)
 
-    @checks.admin_or_permissions(administrator=True)
+    @checks.mod_or_permissions(manage_messages=True)
     @nomore.command(name="remove", pass_context=True)
     async def remove(self, ctx, usr: int = None):
         '''Remove user from blacklist'''
