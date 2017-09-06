@@ -17,7 +17,7 @@ class Namedays:
     """Reply with todays name-days"""
 
     def __init__(self, bot):
-        self.data = json.loads(open("data/namedays/namedays.json").read())
+        self.data = json.loads(open("data/namedays/namedays.json", encoding='utf-8').read())
         self.bot = bot
 
     @commands.command(pass_context=True)
