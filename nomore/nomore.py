@@ -30,7 +30,7 @@ class NoMore:
         try:
             username = await self.bot.get_user_info(usr)
             self.blacklist["blacklist"].append(int(usr))
-            json.dump(self.blacklist, (open("data/nomore/blacklist.json"), 'w')))
+            json.dump(self.blacklist, (open("data/nomore/blacklist.json", 'w')))
             await self.bot.say('`%s` added to blacklist' % (username))
         except Exception as e:
             await self.bot.say(e)
