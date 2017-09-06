@@ -4,6 +4,7 @@ import datetime
 import os
 import re
 from discord.ext import commands
+import urllib.request
 
 emoji = ":champagne:"  # Iekļautie
 emoji2 = ":beers:"  # Neiekļautie
@@ -12,11 +13,11 @@ emoji2 = ":beers:"  # Neiekļautie
 def findname(w):
     return re.compile(r'\b({0})\b'.format(w), flags=re.IGNORECASE).search
 
-
 class Namedays:
     """Reply with todays name-days"""
 
     def __init__(self, bot):
+        self.data = json.loads(open("data/namedays/namedays.json").read())
         self.bot = bot
 
     @commands.command(pass_context=True)
@@ -27,17 +28,13 @@ class Namedays:
         vd [datums] - Atgriež [datums] vārda dienas jubilārus (formāts: dd.mm)
         """
         path = os.path.dirname(os.path.realpath(__file__))
-        if os.path.exists(path + '/namedays.json'):
+        if os.path.exists('data/namedays/namedays.json'):
             t = datetime.datetime.now()
-            vd = json.loads(open("%s/namedays.json" % (path)).read())
+            vd = self.data
             if msg is None:
                 await self.bot.say("%s Šodien vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (
                     emoji, vd["namedays"][int(t.strftime('%j'))]["names"].replace(" ", ", "), emoji2,
                     vd["namedays"][int(t.strftime('%j'))]["noncalendarnames"].replace(" ", ", ")))
-            elif msg.lower() == "help":
-                await self.bot.say(
-                    "```\n%svd - Atgriež šodienas vārda dienu jubilārus\n%svd [vārds] - Atgriež datumu kurā [vārds] svin vārda dienu\n%svd [datums] - Atgriež [datums] vārda dienas jubilārus (formāts: dd.mm)```" % (
-                        ctx.prefix, ctx.prefix, ctx.prefix))
             else:
                 found = False
                 for day in vd["namedays"]:
@@ -63,6 +60,17 @@ class Namedays:
         else:
             await self.bot.say('Something went wrong.')
 
+def check_folder():
+    if not os.path.exists('data/namedays'):
+        print('Creating namedays folder...')
+        os.makedirs('data/namedays')
+
+def check_file():
+    if not os.path.exists("data/namedays/namedays.json"):
+        print('Downloading namedays.json...')
+        urllib.request.urlretrieve("https://raw.githubusercontent.com/RichusX/richusx-cogs/master/namedays/namedays.json", "data/namedays/namedays.json")
 
 def setup(bot):
+    check_folder()
+    check_file()
     bot.add_cog(Namedays(bot))
