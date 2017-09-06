@@ -48,7 +48,7 @@ class NoMore:
         except Exception as e:
             await self.bot.say(e)
 
-    @checks.admin_or_permissions(administrator=True)
+    @checks.mod_or_permissions(manage_messages=True)
     @nomore.command(name="list", pass_context=True)
     async def list(self):
         '''List blacklisted users'''
