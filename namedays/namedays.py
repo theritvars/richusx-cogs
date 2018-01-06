@@ -33,8 +33,8 @@ class Namedays:
             vd = self.data
             if msg is None:
                 await self.bot.say("%s Šodien vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (
-                    emoji, vd["namedays"][int(t.strftime('%j'))]["names"].replace(" ", ", "), emoji2,
-                    vd["namedays"][int(t.strftime('%j'))]["noncalendarnames"].replace(" ", ", ")))
+                    emoji, vd["namedays"][int(t.strftime('%j'))-1]["names"].replace(" ", ", "), emoji2,
+                    vd["namedays"][int(t.strftime('%j'))-1]["noncalendarnames"].replace(" ", ", ")))
             else:
                 found = False
                 for day in vd["namedays"]:
