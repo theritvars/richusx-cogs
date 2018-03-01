@@ -43,7 +43,8 @@ class Namedays:
         vd [datums] - Atgriež [datums] vārda dienas jubilārus (formāts: dd.mm; dd/mm; dd,mm)
         """
 
-        date_regex = re.match("^(0[1-9]|1[0-9]|2[0-9]|3[0-1])(\.|\/|\,)(0[1-9]|1[1-2])$", msg)
+        if msg is not None:
+            date_regex = re.match("^(0[1-9]|1[0-9]|2[0-9]|3[0-1])(\.|\/|\,)(0[1-9]|1[1-2])$", msg)
 
         if msg is None:
             day = datetime.datetime.now().strftime("%d")
@@ -56,7 +57,6 @@ class Namedays:
             else:
                 await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
 
-        
         elif date_regex:
             day = date_regex.group(1)
             month = date_regex.group(3)
