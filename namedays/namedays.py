@@ -50,7 +50,7 @@ class Namedays:
                 await self.bot.say("%s Šodien vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (
                     emoji, result[0].replace(" ", ", "), emoji2, result[1].replace(" ", ", ")))
             else:
-                await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
+                await self.bot.say("Kļūda! `%s` netika atrasts!" % (msg))
 
         elif date_regex:
             day = date_regex.group(1)
@@ -61,14 +61,14 @@ class Namedays:
                 await self.bot.say("%s Šodien vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (
                     emoji, result[0].replace(" ", ", "), emoji2, result[1].replace(" ", ", ")))
             else:
-                await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
+                await self.bot.say("Kļūda! `%s` netika atrasts!" % (msg))
 
         else:
             result = findByName(self.data, msg)
             if result:
-                await self.bot.say("%s %s vārda dienu svin '%s' datumā." % (emoji, msg.title(), result))
+                await self.bot.say("%s %s vārda dienu svin `%s` datumā." % (emoji, msg.title(), result))
             else:
-                await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
+                await self.bot.say("Kļūda! `%s` netika atrasts!" % (msg))
 
 
 
