@@ -35,7 +35,7 @@ class Namedays:
                 return date
         return False
 
-    def notFound(msg):
+    def notFound(self, msg):
         await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
        
 
