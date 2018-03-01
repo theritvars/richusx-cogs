@@ -35,9 +35,6 @@ class Namedays:
                 return date
         return False
 
-    def notFound(self, msg):
-       
-
     @commands.command(pass_context=True)
     async def vd(self, ctx, msg: str = None):
         """
