@@ -63,9 +63,11 @@ class Namedays:
             else:
                 await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
 
-
         else:
-            if not findByName(self.data, msg):
+            result = findByName(self.data, msg)
+            if result:
+                await self.bot.say("%s %s vārda dienu svin '%s' datumā." % (emoji, msg.title(), result))
+            else:
                 await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
 
 
