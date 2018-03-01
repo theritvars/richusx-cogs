@@ -36,7 +36,6 @@ class Namedays:
         return False
 
     def notFound(self, msg):
-        await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
        
 
     @commands.command(pass_context=True)
@@ -58,7 +57,8 @@ class Namedays:
                 await self.bot.say("%s Šodien vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (
                     emoji, result[0].replace(" ", ", "), emoji2, result[1].replace(" ", ", ")))
             else:
-                notFound(msg)
+                await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
+
         
         elif date_regex:
             day = date_regex.group(1)
@@ -69,11 +69,13 @@ class Namedays:
                 await self.bot.say("%s Šodien vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (
                     emoji, result[0].replace(" ", ", "), emoji2, result[1].replace(" ", ", ")))
             else:
-                notFound(msg)
+                await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
+
 
         else:
             if not findByName(msg):
-                notFound(msg)
+                await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
+
 
 
 def check_folder():
