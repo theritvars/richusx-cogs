@@ -9,8 +9,19 @@ import urllib.request
 emoji = ":champagne:"  # Iekļautie
 emoji2 = ":beers:"  # Neiekļautie
 
-def findname(w):
-    return re.compile(r'\b({0})\b'.format(w), flags=re.IGNORECASE).search
+def findByDate(vd, day, month):
+        for i in vd["namedays"]:
+            if i["month"] == month:
+                if i["day"] == day:
+                    return [i["names"], i["noncalendarnames"]]
+        return False
+
+def findByName(vd, name):
+    for i in vd["namedays"]:
+        if name.lower() in i["names"].lower() or name.lower() in i["noncalendarnames"].lower():
+            date = "%s/%s" % (i["day"], i["month"])
+            return date
+    return False
 
 class Namedays:
     """Reply with todays name-days"""
@@ -18,22 +29,6 @@ class Namedays:
     def __init__(self, bot):
         self.data = json.loads(open("data/namedays/namedays.json", encoding='utf-8').read())
         self.bot = bot
-
-    def findByDate(self, day, month):
-        vd = self.data
-        for i in vd["namedays"]:
-            if i["month"] == month:
-                if i["day"] == day:
-                    return [i["names"], i["noncalendarnames"]]
-        return False
-
-    def findByName(self, name):
-        vd = self.data
-        for i in vd["namedays"]:
-            if name.lower() in i["names"].lower() or name.lower() in i["noncalendarnames"].lower():
-                date = "%s/%s" % (i["day"], i["month"])
-                return date
-        return False
 
     @commands.command(pass_context=True)
     async def vd(self, ctx, msg: str = None):
@@ -49,7 +44,7 @@ class Namedays:
         if msg is None:
             day = datetime.datetime.now().strftime("%d")
             month = datetime.datetime.now().strftime("%m")
-            result = findByDate(day, month)
+            result = findByDate(self.data, day, month)
 
             if result:
                 await self.bot.say("%s Šodien vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (
@@ -60,7 +55,7 @@ class Namedays:
         elif date_regex:
             day = date_regex.group(1)
             month = date_regex.group(3)
-            result = findByDate(day, month)
+            result = findByDate(self.data, day, month)
 
             if result:
                 await self.bot.say("%s Šodien vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (
@@ -70,7 +65,7 @@ class Namedays:
 
 
         else:
-            if not findByName(msg):
+            if not findByName(self.data, msg):
                 await self.bot.say("Kļūda! '%s' netika atrasts!" % (msg))
 
 
