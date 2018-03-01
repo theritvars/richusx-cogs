@@ -17,8 +17,10 @@ def findByDate(vd, day, month):
         return False
 
 def findByName(vd, name):
+    name = r"\b%s\b" % (name.lower())
+
     for i in vd["namedays"]:
-        if name.lower() in i["names"].lower() or name.lower() in i["noncalendarnames"].lower():
+        if re.match(name, i["names"].lower()) or re.match(name, i["noncalendarnames"].lower()):
             date = "%s/%s" % (i["day"], i["month"])
             return date
     return False
@@ -39,7 +41,7 @@ class Namedays:
         """
 
         if msg is not None:
-            date_regex = re.match("^(0[1-9]|1[0-9]|2[0-9]|3[0-1])(\.|\/|\,)(0[1-9]|1[1-2])$", msg)
+            date_regex = re.match(r"^(0[1-9]|1[0-9]|2[0-9]|3[0-1])(\.|\/|\,)(0[1-9]|1[1-2])$", msg)
 
         if msg is None:
             day = datetime.datetime.now().strftime("%d")
