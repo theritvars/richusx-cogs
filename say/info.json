@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "Ritvars Timermanis",
+    "INSTALL_MSG" : "Say cog has been installed",
+    "NAME" : "Say",
+    "SHORT" : "Send messages as the bot",
+    "DESCRIPTION" : "Send messages as the bot"
+}
