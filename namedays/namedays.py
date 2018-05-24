@@ -20,7 +20,7 @@ def findByName(vd, name):
     name = r"\b%s\b" % (name.lower())
 
     for i in vd["namedays"]:
-        if re.match(name, i["names"].lower()) or re.match(name, i["noncalendarnames"].lower()):
+        if re.search(name, i["names"].lower()) or re.search(name, i["noncalendarnames"].lower()):
             date = "%s/%s" % (i["day"], i["month"])
             return date
     return False
