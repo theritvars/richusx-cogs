@@ -3,11 +3,13 @@ import json
 import datetime
 import os
 import re
-from discord.ext import commands
+from redbot.core import commands
 import urllib.request
 
 emoji = ":champagne:"  # Iekļautie
 emoji2 = ":beers:"  # Neiekļautie
+
+BaseCog = getattr(commands, "Cog", object)
 
 def findByDate(vd, day, month):
         for i in vd["namedays"]:
@@ -25,14 +27,13 @@ def findByName(vd, name):
             return date
     return False
 
-class Namedays:
-    """Reply with todays name-days"""
+class Namedays(BaseCog):
+    """Reply with today's name-days"""
 
-    def __init__(self, bot):
+    def __init__(self):
         self.data = json.loads(open("data/namedays/namedays.json", encoding='utf-8').read())
-        self.bot = bot
 
-    @commands.command(pass_context=True)
+    @commands.command()
     async def vd(self, ctx, msg: str = None):
         """
         vd - Atgriež šodienas vārda dienu jubilārus
@@ -41,36 +42,40 @@ class Namedays:
         """
 
         if msg is not None:
-            date_regex = re.match(r"^(0[1-9]|1[0-9]|2[0-9]|3[0-1])(\.|\/|\,)(0[1-9]|1[1-2])$", msg)
+            date_regex = re.match(r"^(0[1-9]|1[0-9]|2[0-9]|3[0-1])(\.|\/|\,)(0[1-9]|1[0-2])$", msg)
 
         if msg is None:
             day = datetime.datetime.now().strftime("%d")
             month = datetime.datetime.now().strftime("%m")
             result = findByDate(self.data, day, month)
 
+            included = result[0].replace(" ", ", ")
+            excluded = result[1].replace(" ", ", ")
+
             if result:
-                await self.bot.say("%s Šodien vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (
-                    emoji, result[0].replace(" ", ", "), emoji2, result[1].replace(" ", ", ")))
+                await ctx.send(f"{emoji} Šodien vārda dienu svin: `{included}`\n\n{emoji2} Kalendārā neiekļautie: *`{excluded}`*")
             else:
-                await self.bot.say("Kļūda! `%s` netika atrasts!" % (msg))
+                await ctx.send(f"Kļūda! `{msg}` netika atrasts!")
 
         elif date_regex:
             day = date_regex.group(1)
             month = date_regex.group(3)
             result = findByDate(self.data, day, month)
 
+            included = result[0].replace(" ", ", ")
+            excluded = result[1].replace(" ", ", ")
+
             if result:
-                await self.bot.say("%s Šodien vārda dienu svin: `%s`\n\n%s Kalendārā neiekļautie: *`%s`*" % (
-                    emoji, result[0].replace(" ", ", "), emoji2, result[1].replace(" ", ", ")))
+                await ctx.send(f"{emoji} Šodien vārda dienu svin: `{included}`\n\n{emoji2} Kalendārā neiekļautie: *`{excluded}`*")
             else:
-                await self.bot.say("Kļūda! `%s` netika atrasts!" % (msg))
+                await ctx.send(f"Kļūda! `{msg}` netika atrasts!")
 
         else:
             result = findByName(self.data, msg)
             if result:
-                await self.bot.say("%s %s vārda dienu svin `%s` datumā." % (emoji, msg.title(), result))
+                await ctx.send(f"{emoji} {msg.title()} vārda dienu svin `{result}` datumā.")
             else:
-                await self.bot.say("Kļūda! `%s` netika atrasts!" % (msg))
+                await ctx.send(f"Kļūda! `{msg}` netika atrasts!")
 
 
 
